@@ -1,0 +1,644 @@
+C:\Users\Maikro\Documents\GitHub\Zapateria\Zapateria\Zapateria\bin\Debug\Zapateria.exe.config
+C:\Users\Maikro\Documents\GitHub\Zapateria\Zapateria\bin\Debug\Zapateria.exe.config
+C:\Users\Vanina Ariño\Desktop\Zap Beta\ZapateriaBeta\Zapateria\bin\Debug\Zapateria.exe.config
+C:\Users\Vanina Ariño\Desktop\Zap Beta\ZapateriaBeta\Zapateria\bin\Debug\Zapateria.sdf
+C:\Users\Vanina Ariño\Desktop\Zap Beta\ZapateriaBeta\Zapateria\bin\Debug\Zapateria.exe
+C:\Users\Vanina Ariño\Desktop\Zap Beta\ZapateriaBeta\Zapateria\bin\Debug\Zapateria.pdb
+C:\Users\Vanina Ariño\Desktop\Zap Beta\ZapateriaBeta\Zapateria\bin\Debug\Zapateria.xml
+C:\Users\Vanina Ariño\Desktop\Zap Beta\ZapateriaBeta\Zapateria\obj\x86\Debug\Zapateria.Resources.resources
+C:\Users\Vanina Ariño\Desktop\Zap Beta\ZapateriaBeta\Zapateria\obj\x86\Debug\Zapateria.Principal.resources
+C:\Users\Vanina Ariño\Desktop\Zap Beta\ZapateriaBeta\Zapateria\obj\x86\Debug\Zapateria.vbproj.GenerateResource.Cache
+C:\Users\Vanina Ariño\Desktop\Zap Beta\ZapateriaBeta\Zapateria\obj\x86\Debug\Zapateria.exe
+C:\Users\Vanina Ariño\Desktop\Zap Beta\ZapateriaBeta\Zapateria\obj\x86\Debug\Zapateria.xml
+C:\Users\Vanina Ariño\Desktop\Zap Beta\ZapateriaBeta\Zapateria\obj\x86\Debug\Zapateria.pdb
+C:\Users\Vanina Ariño\Desktop\Zap Beta\ZapateriaBeta\Zapateria\obj\x86\Debug\Zapateria.AltasProv.resources
+C:\Users\Vanina Ariño\Desktop\Zap Beta\ZapateriaBeta\Zapateria\obj\x86\Debug\Zapateria.Prov.resources
+C:\Users\Vanina Ariño\Desktop\Zap Beta\ZapateriaBeta\Zapateria\obj\x86\Debug\Zapateria.AltaLoc.resources
+C:\Users\Vanina Ariño\Desktop\Zap Beta\ZapateriaBeta\Zapateria\obj\x86\Debug\Zapateria.MostrarLoc.resources
+C:\Users\Vanina Ariño\Desktop\Zap Beta\ZapateriaBeta\Zapateria\obj\x86\Debug\Zapateria.ModElimLoc.resources
+C:\Users\Vanina Ariño\Desktop\Zap Beta\ZapateriaBeta\Zapateria\obj\x86\Debug\Zapateria.BuscarProv.resources
+C:\Users\Vanina Ariño\Desktop\Zap Beta\ZapateriaBeta\Zapateria\obj\x86\Debug\Zapateria.AltaCli.resources
+C:\Users\Vanina Ariño\Desktop\Zap Beta\ZapateriaBeta\Zapateria\obj\x86\Debug\Zapateria.Client.resources
+C:\Users\Maikro\Desktop\VisualBasic\De Vani Master\Zapateria\bin\Debug\Zapateria.exe.config
+C:\Users\Maikro\Desktop\VisualBasic\De Vani Master\Zapateria\obj\x86\Debug\Zapateria.exe
+C:\Users\Maikro\Desktop\VisualBasic\De Vani Master\Zapateria\obj\x86\Debug\Zapateria.xml
+C:\Users\Maikro\Desktop\VisualBasic\De Vani Master\Zapateria\obj\x86\Debug\Zapateria.pdb
+C:\Users\Maikro\Desktop\VisualBasic\ZapateriaBeta1.2\Zapateria\bin\Debug\Zapateria.exe.config
+C:\Users\Maikro\Desktop\VisualBasic\ZapateriaBeta1.2\Zapateria\obj\x86\Debug\Zapateria.exe
+C:\Users\Maikro\Desktop\VisualBasic\ZapateriaBeta1.2\Zapateria\obj\x86\Debug\Zapateria.xml
+C:\Users\Maikro\Desktop\VisualBasic\ZapateriaBeta1.2\Zapateria\obj\x86\Debug\Zapateria.pdb
+C:\Users\Maikro\Desktop\VisualBasic\ZapateriaBeta1.2\Zapateria\bin\Debug\Zapateria.sdf
+C:\Users\Maikro\Desktop\VisualBasic\ZapateriaBeta1.2\Zapateria\bin\Debug\Zapateria.exe
+C:\Users\Maikro\Desktop\VisualBasic\ZapateriaBeta1.2\Zapateria\bin\Debug\Zapateria.pdb
+C:\Users\Maikro\Desktop\VisualBasic\ZapateriaBeta1.2\Zapateria\bin\Debug\Zapateria.xml
+C:\Users\Maikro\Desktop\VisualBasic\ZapateriaBeta1.2\Zapateria\obj\x86\Debug\Zapateria.AltaCli.resources
+C:\Users\Maikro\Desktop\VisualBasic\ZapateriaBeta1.2\Zapateria\obj\x86\Debug\Zapateria.AltaLoc.resources
+C:\Users\Maikro\Desktop\VisualBasic\ZapateriaBeta1.2\Zapateria\obj\x86\Debug\Zapateria.AltasProv.resources
+C:\Users\Maikro\Desktop\VisualBasic\ZapateriaBeta1.2\Zapateria\obj\x86\Debug\Zapateria.Alta_Producto.resources
+C:\Users\Maikro\Desktop\VisualBasic\ZapateriaBeta1.2\Zapateria\obj\x86\Debug\Zapateria.BuscarProv.resources
+C:\Users\Maikro\Desktop\VisualBasic\ZapateriaBeta1.2\Zapateria\obj\x86\Debug\Zapateria.Client.resources
+C:\Users\Maikro\Desktop\VisualBasic\ZapateriaBeta1.2\Zapateria\obj\x86\Debug\Zapateria.MostrarLoc.resources
+C:\Users\Maikro\Desktop\VisualBasic\ZapateriaBeta1.2\Zapateria\obj\x86\Debug\Zapateria.Resources.resources
+C:\Users\Maikro\Desktop\VisualBasic\ZapateriaBeta1.2\Zapateria\obj\x86\Debug\Zapateria.Principal.resources
+C:\Users\Maikro\Desktop\VisualBasic\ZapateriaBeta1.2\Zapateria\obj\x86\Debug\Zapateria.Principal_Producto.resources
+C:\Users\Maikro\Desktop\VisualBasic\ZapateriaBeta1.2\Zapateria\obj\x86\Debug\Zapateria.Prov.resources
+C:\Users\Maikro\Desktop\VisualBasic\ZapateriaBeta1.2\Zapateria\obj\x86\Debug\Zapateria.vbproj.GenerateResource.Cache
+C:\Users\Vanina Ariño\Desktop\Zap Beta\ZapateriaBeta1.2\Zapateria\bin\Debug\Zapateria.exe.config
+C:\Users\Vanina Ariño\Desktop\Zap Beta\ZapateriaBeta1.2\Zapateria\obj\x86\Debug\Zapateria.exe
+C:\Users\Vanina Ariño\Desktop\Zap Beta\ZapateriaBeta1.2\Zapateria\obj\x86\Debug\Zapateria.xml
+C:\Users\Vanina Ariño\Desktop\Zap Beta\ZapateriaBeta1.2\Zapateria\obj\x86\Debug\Zapateria.pdb
+C:\Users\Vanina Ariño\Desktop\Zap Beta\ZapateriaBeta1.2\Zapateria\bin\Debug\Zapateria.sdf
+C:\Users\Vanina Ariño\Desktop\Zap Beta\ZapateriaBeta1.2\Zapateria\bin\Debug\Zapateria.exe
+C:\Users\Vanina Ariño\Desktop\Zap Beta\ZapateriaBeta1.2\Zapateria\bin\Debug\Zapateria.pdb
+C:\Users\Vanina Ariño\Desktop\Zap Beta\ZapateriaBeta1.2\Zapateria\bin\Debug\Zapateria.xml
+C:\Users\Vanina Ariño\Desktop\Zap Beta\ZapateriaBeta1.2\Zapateria\obj\x86\Debug\Zapateria.AltaCli.resources
+C:\Users\Vanina Ariño\Desktop\Zap Beta\ZapateriaBeta1.2\Zapateria\obj\x86\Debug\Zapateria.AltaLoc.resources
+C:\Users\Vanina Ariño\Desktop\Zap Beta\ZapateriaBeta1.2\Zapateria\obj\x86\Debug\Zapateria.AltasProv.resources
+C:\Users\Vanina Ariño\Desktop\Zap Beta\ZapateriaBeta1.2\Zapateria\obj\x86\Debug\Zapateria.Alta_Producto.resources
+C:\Users\Vanina Ariño\Desktop\Zap Beta\ZapateriaBeta1.2\Zapateria\obj\x86\Debug\Zapateria.BuscarProv.resources
+C:\Users\Vanina Ariño\Desktop\Zap Beta\ZapateriaBeta1.2\Zapateria\obj\x86\Debug\Zapateria.Client.resources
+C:\Users\Vanina Ariño\Desktop\Zap Beta\ZapateriaBeta1.2\Zapateria\obj\x86\Debug\Zapateria.MostrarLoc.resources
+C:\Users\Vanina Ariño\Desktop\Zap Beta\ZapateriaBeta1.2\Zapateria\obj\x86\Debug\Zapateria.Resources.resources
+C:\Users\Vanina Ariño\Desktop\Zap Beta\ZapateriaBeta1.2\Zapateria\obj\x86\Debug\Zapateria.Principal.resources
+C:\Users\Vanina Ariño\Desktop\Zap Beta\ZapateriaBeta1.2\Zapateria\obj\x86\Debug\Zapateria.Principal_Producto.resources
+C:\Users\Vanina Ariño\Desktop\Zap Beta\ZapateriaBeta1.2\Zapateria\obj\x86\Debug\Zapateria.Prov.resources
+C:\Users\Vanina Ariño\Desktop\Zap Beta\ZapateriaBeta1.2\Zapateria\obj\x86\Debug\Zapateria.vbproj.GenerateResource.Cache
+C:\Users\Vanina Ariño\Desktop\Zap Beta\ZapateriaBeta1.2\Zapateria\obj\x86\Debug\Zapateria.BuscarCli.resources
+C:\Users\Vanina Ariño\Desktop\Zap Beta\ZapateriaBeta1.2\Zapateria\obj\x86\Debug\Zapateria.Empl.resources
+C:\Users\Vanina Ariño\Desktop\Zap Beta\ZapateriaBeta1.2\Zapateria\obj\x86\Debug\Zapateria.AltaEmpl.resources
+C:\Users\Vanina Ariño\Desktop\Zap Beta\ZapateriaBeta1.2\Zapateria\obj\x86\Debug\Zapateria.ElimLoc.resources
+C:\Users\Maikro\Desktop\VisualBasic\ZapateriaBeta1.2\Zapateria\obj\x86\Debug\Zapateria.AltaEmpl.resources
+C:\Users\Maikro\Desktop\VisualBasic\ZapateriaBeta1.2\Zapateria\obj\x86\Debug\Zapateria.BuscarCli.resources
+C:\Users\Maikro\Desktop\VisualBasic\ZapateriaBeta1.2\Zapateria\obj\x86\Debug\Zapateria.Empl.resources
+C:\Users\Maikro\Desktop\VisualBasic\ZapateriaBeta1.2\Zapateria\obj\x86\Debug\Zapateria.Buscar_Productos.resources
+C:\Users\Maikro\Desktop\VisualBasic\04.10 guardado para rama\Zapateria\bin\Debug\Zapateria.exe.config
+C:\Users\Maikro\Desktop\VisualBasic\04.10 guardado para rama\Zapateria\obj\x86\Debug\Zapateria.exe
+C:\Users\Maikro\Desktop\VisualBasic\04.10 guardado para rama\Zapateria\obj\x86\Debug\Zapateria.xml
+C:\Users\Maikro\Desktop\VisualBasic\04.10 guardado para rama\Zapateria\obj\x86\Debug\Zapateria.pdb
+C:\Users\Maikro\Desktop\VisualBasic\04.10 guardado para rama\Zapateria\bin\Debug\Zapateria.sdf
+C:\Users\Maikro\Desktop\VisualBasic\04.10 guardado para rama\Zapateria\bin\Debug\Zapateria.exe
+C:\Users\Maikro\Desktop\VisualBasic\04.10 guardado para rama\Zapateria\bin\Debug\Zapateria.pdb
+C:\Users\Maikro\Desktop\VisualBasic\04.10 guardado para rama\Zapateria\bin\Debug\Zapateria.xml
+C:\Users\Maikro\Desktop\VisualBasic\04.10 guardado para rama\Zapateria\obj\x86\Debug\Zapateria.AltaCli.resources
+C:\Users\Maikro\Desktop\VisualBasic\04.10 guardado para rama\Zapateria\obj\x86\Debug\Zapateria.AltaEmpl.resources
+C:\Users\Maikro\Desktop\VisualBasic\04.10 guardado para rama\Zapateria\obj\x86\Debug\Zapateria.AltaLoc.resources
+C:\Users\Maikro\Desktop\VisualBasic\04.10 guardado para rama\Zapateria\obj\x86\Debug\Zapateria.AltasProv.resources
+C:\Users\Maikro\Desktop\VisualBasic\04.10 guardado para rama\Zapateria\obj\x86\Debug\Zapateria.Alta_Producto.resources
+C:\Users\Maikro\Desktop\VisualBasic\04.10 guardado para rama\Zapateria\obj\x86\Debug\Zapateria.BuscarCli.resources
+C:\Users\Maikro\Desktop\VisualBasic\04.10 guardado para rama\Zapateria\obj\x86\Debug\Zapateria.BuscarEmpl.resources
+C:\Users\Maikro\Desktop\VisualBasic\04.10 guardado para rama\Zapateria\obj\x86\Debug\Zapateria.BuscarProv.resources
+C:\Users\Maikro\Desktop\VisualBasic\04.10 guardado para rama\Zapateria\obj\x86\Debug\Zapateria.Buscar_Productos.resources
+C:\Users\Maikro\Desktop\VisualBasic\04.10 guardado para rama\Zapateria\obj\x86\Debug\Zapateria.Client.resources
+C:\Users\Maikro\Desktop\VisualBasic\04.10 guardado para rama\Zapateria\obj\x86\Debug\Zapateria.Empl.resources
+C:\Users\Maikro\Desktop\VisualBasic\04.10 guardado para rama\Zapateria\obj\x86\Debug\Zapateria.ModElimLoc.resources
+C:\Users\Maikro\Desktop\VisualBasic\04.10 guardado para rama\Zapateria\obj\x86\Debug\Zapateria.MostrarLoc.resources
+C:\Users\Maikro\Desktop\VisualBasic\04.10 guardado para rama\Zapateria\obj\x86\Debug\Zapateria.Resources.resources
+C:\Users\Maikro\Desktop\VisualBasic\04.10 guardado para rama\Zapateria\obj\x86\Debug\Zapateria.Principal.resources
+C:\Users\Maikro\Desktop\VisualBasic\04.10 guardado para rama\Zapateria\obj\x86\Debug\Zapateria.Principal_Producto.resources
+C:\Users\Maikro\Desktop\VisualBasic\04.10 guardado para rama\Zapateria\obj\x86\Debug\Zapateria.Prov.resources
+C:\Users\Maikro\Desktop\VisualBasic\04.10 guardado para rama\Zapateria\obj\x86\Debug\Zapateria.vbproj.GenerateResource.Cache
+C:\Users\Maikro\Desktop\VisualBasic\ZapateriaBeta1.2\Zapateria\obj\x86\Debug\Zapateria.ElimLoc.resources
+C:\Users\Maikro\Desktop\VisualBasic\ZapateriaBeta1.2\Zapateria\obj\x86\Debug\Zapateria.AltaMarca.resources
+D:\ZapateriaBeta1.2\Zapateria\bin\Debug\Zapateria.exe.config
+D:\ZapateriaBeta1.2\Zapateria\obj\x86\Debug\Zapateria.exe
+D:\ZapateriaBeta1.2\Zapateria\obj\x86\Debug\Zapateria.xml
+D:\ZapateriaBeta1.2\Zapateria\obj\x86\Debug\Zapateria.pdb
+D:\ZapateriaBeta1.2\Zapateria\bin\Debug\Zapateria.sdf
+D:\ZapateriaBeta1.2\Zapateria\bin\Debug\Zapateria.exe
+D:\ZapateriaBeta1.2\Zapateria\bin\Debug\Zapateria.pdb
+D:\ZapateriaBeta1.2\Zapateria\bin\Debug\Zapateria.xml
+D:\ZapateriaBeta1.2\Zapateria\obj\x86\Debug\Zapateria.vbprojResolveAssemblyReference.cache
+D:\ZapateriaBeta1.2\Zapateria\obj\x86\Debug\Zapateria.AltaCli.resources
+D:\ZapateriaBeta1.2\Zapateria\obj\x86\Debug\Zapateria.AltaEmpl.resources
+D:\ZapateriaBeta1.2\Zapateria\obj\x86\Debug\Zapateria.AltaLoc.resources
+D:\ZapateriaBeta1.2\Zapateria\obj\x86\Debug\Zapateria.AltaMarca.resources
+D:\ZapateriaBeta1.2\Zapateria\obj\x86\Debug\Zapateria.AltasProv.resources
+D:\ZapateriaBeta1.2\Zapateria\obj\x86\Debug\Zapateria.Alta_Producto.resources
+D:\ZapateriaBeta1.2\Zapateria\obj\x86\Debug\Zapateria.BuscarCli.resources
+D:\ZapateriaBeta1.2\Zapateria\obj\x86\Debug\Zapateria.BuscarEmpl.resources
+D:\ZapateriaBeta1.2\Zapateria\obj\x86\Debug\Zapateria.BuscarProv.resources
+D:\ZapateriaBeta1.2\Zapateria\obj\x86\Debug\Zapateria.Buscar_Productos.resources
+D:\ZapateriaBeta1.2\Zapateria\obj\x86\Debug\Zapateria.Client.resources
+D:\ZapateriaBeta1.2\Zapateria\obj\x86\Debug\Zapateria.Empl.resources
+D:\ZapateriaBeta1.2\Zapateria\obj\x86\Debug\Zapateria.ElimLoc.resources
+D:\ZapateriaBeta1.2\Zapateria\obj\x86\Debug\Zapateria.MostrarLoc.resources
+D:\ZapateriaBeta1.2\Zapateria\obj\x86\Debug\Zapateria.Resources.resources
+D:\ZapateriaBeta1.2\Zapateria\obj\x86\Debug\Zapateria.Principal.resources
+D:\ZapateriaBeta1.2\Zapateria\obj\x86\Debug\Zapateria.Principal_Producto.resources
+D:\ZapateriaBeta1.2\Zapateria\obj\x86\Debug\Zapateria.Prov.resources
+D:\ZapateriaBeta1.2\Zapateria\obj\x86\Debug\Zapateria.vbproj.GenerateResource.Cache
+C:\Users\Vanina Ariño\Desktop\Zap Beta\ZapateriaBeta1.2\Zapateria\obj\x86\Debug\Zapateria.vbprojResolveAssemblyReference.cache
+C:\Users\Vanina Ariño\Desktop\Zap Beta\ZapateriaBeta1.2\Zapateria\obj\x86\Debug\Zapateria.AltaMarca.resources
+C:\Users\Vanina Ariño\Desktop\Zap Beta\ZapateriaBeta1.2\Zapateria\obj\x86\Debug\Zapateria.Buscar_Productos.resources
+C:\Users\Vanina Ariño\Desktop\Zap Beta\ZapateriaBeta1.2\Zapateria\obj\x86\Debug\Zapateria.ModProv.resources
+C:\Users\Vanina Ariño\Desktop\Zap Beta\ZapateriaBeta1.2\Zapateria\obj\x86\Debug\Zapateria.ModClient.resources
+C:\Users\Vanina Ariño\Desktop\Zap Beta\ZapateriaBeta1.2\Zapateria\obj\x86\Debug\Zapateria.BuscarEmp.resources
+C:\Users\Vanina Ariño\Desktop\Zap Beta\ZapateriaBeta1.2\Zapateria\obj\x86\Debug\Zapateria.ModEmpl.resources
+C:\Users\Vanina Ariño\Desktop\Zap Beta\ZapateriaBeta1.2\Zapateria\obj\x86\Debug\Zapateria.ModLoc.resources
+C:\Users\Maikro\Desktop\VisualBasic\ZapateriaBeta1.2\Zapateria\obj\x86\Debug\Zapateria.vbprojResolveAssemblyReference.cache
+C:\Users\Maikro\Desktop\VisualBasic\ZapateriaBeta1.2\Zapateria\obj\x86\Debug\Zapateria.BuscarEmp.resources
+C:\Users\Maikro\Desktop\VisualBasic\ZapateriaBeta1.2\Zapateria\obj\x86\Debug\Zapateria.ModClient.resources
+C:\Users\Maikro\Desktop\VisualBasic\ZapateriaBeta1.2\Zapateria\obj\x86\Debug\Zapateria.ModEmpl.resources
+C:\Users\Maikro\Desktop\VisualBasic\ZapateriaBeta1.2\Zapateria\obj\x86\Debug\Zapateria.ModLoc.resources
+C:\Users\Maikro\Desktop\VisualBasic\ZapateriaBeta1.2\Zapateria\obj\x86\Debug\Zapateria.ModProv.resources
+C:\Users\Gabriel\Documents\Proyecto\ZapateriaBeta1.2\Zapateria\bin\Debug\Zapateria.exe.config
+C:\Users\Gabriel\Documents\Proyecto\ZapateriaBeta1.2\Zapateria\obj\x86\Debug\Zapateria.exe
+C:\Users\Gabriel\Documents\Proyecto\ZapateriaBeta1.2\Zapateria\obj\x86\Debug\Zapateria.xml
+C:\Users\Gabriel\Documents\Proyecto\ZapateriaBeta1.2\Zapateria\obj\x86\Debug\Zapateria.pdb
+C:\Users\Gabriel\Documents\Proyecto\ZapateriaBeta1.2\Zapateria\bin\Debug\Zapateria.sdf
+C:\Users\Gabriel\Documents\Proyecto\ZapateriaBeta1.2\Zapateria\bin\Debug\Zapateria.exe
+C:\Users\Gabriel\Documents\Proyecto\ZapateriaBeta1.2\Zapateria\bin\Debug\Zapateria.pdb
+C:\Users\Gabriel\Documents\Proyecto\ZapateriaBeta1.2\Zapateria\bin\Debug\Zapateria.xml
+C:\Users\Gabriel\Documents\Proyecto\ZapateriaBeta1.2\Zapateria\obj\x86\Debug\Zapateria.vbprojResolveAssemblyReference.cache
+C:\Users\Gabriel\Documents\Proyecto\ZapateriaBeta1.2\Zapateria\obj\x86\Debug\Zapateria.AltaCli.resources
+C:\Users\Gabriel\Documents\Proyecto\ZapateriaBeta1.2\Zapateria\obj\x86\Debug\Zapateria.AltaEmpl.resources
+C:\Users\Gabriel\Documents\Proyecto\ZapateriaBeta1.2\Zapateria\obj\x86\Debug\Zapateria.AltaLoc.resources
+C:\Users\Gabriel\Documents\Proyecto\ZapateriaBeta1.2\Zapateria\obj\x86\Debug\Zapateria.AltaMarca.resources
+C:\Users\Gabriel\Documents\Proyecto\ZapateriaBeta1.2\Zapateria\obj\x86\Debug\Zapateria.AltasProv.resources
+C:\Users\Gabriel\Documents\Proyecto\ZapateriaBeta1.2\Zapateria\obj\x86\Debug\Zapateria.Alta_Producto.resources
+C:\Users\Gabriel\Documents\Proyecto\ZapateriaBeta1.2\Zapateria\obj\x86\Debug\Zapateria.BuscarCli.resources
+C:\Users\Gabriel\Documents\Proyecto\ZapateriaBeta1.2\Zapateria\obj\x86\Debug\Zapateria.BuscarEmp.resources
+C:\Users\Gabriel\Documents\Proyecto\ZapateriaBeta1.2\Zapateria\obj\x86\Debug\Zapateria.BuscarProv.resources
+C:\Users\Gabriel\Documents\Proyecto\ZapateriaBeta1.2\Zapateria\obj\x86\Debug\Zapateria.Buscar_Productos.resources
+C:\Users\Gabriel\Documents\Proyecto\ZapateriaBeta1.2\Zapateria\obj\x86\Debug\Zapateria.Client.resources
+C:\Users\Gabriel\Documents\Proyecto\ZapateriaBeta1.2\Zapateria\obj\x86\Debug\Zapateria.Empl.resources
+C:\Users\Gabriel\Documents\Proyecto\ZapateriaBeta1.2\Zapateria\obj\x86\Debug\Zapateria.ElimLoc.resources
+C:\Users\Gabriel\Documents\Proyecto\ZapateriaBeta1.2\Zapateria\obj\x86\Debug\Zapateria.ModClient.resources
+C:\Users\Gabriel\Documents\Proyecto\ZapateriaBeta1.2\Zapateria\obj\x86\Debug\Zapateria.ModEmpl.resources
+C:\Users\Gabriel\Documents\Proyecto\ZapateriaBeta1.2\Zapateria\obj\x86\Debug\Zapateria.ModLoc.resources
+C:\Users\Gabriel\Documents\Proyecto\ZapateriaBeta1.2\Zapateria\obj\x86\Debug\Zapateria.ModProv.resources
+C:\Users\Gabriel\Documents\Proyecto\ZapateriaBeta1.2\Zapateria\obj\x86\Debug\Zapateria.MostrarLoc.resources
+C:\Users\Gabriel\Documents\Proyecto\ZapateriaBeta1.2\Zapateria\obj\x86\Debug\Zapateria.Resources.resources
+C:\Users\Gabriel\Documents\Proyecto\ZapateriaBeta1.2\Zapateria\obj\x86\Debug\Zapateria.Principal.resources
+C:\Users\Gabriel\Documents\Proyecto\ZapateriaBeta1.2\Zapateria\obj\x86\Debug\Zapateria.Principal_Producto.resources
+C:\Users\Gabriel\Documents\Proyecto\ZapateriaBeta1.2\Zapateria\obj\x86\Debug\Zapateria.Prov.resources
+C:\Users\Gabriel\Documents\Proyecto\ZapateriaBeta1.2\Zapateria\obj\x86\Debug\Zapateria.Ventas.resources
+C:\Users\Gabriel\Documents\Proyecto\ZapateriaBeta1.2\Zapateria\obj\x86\Debug\Zapateria.vbproj.GenerateResource.Cache
+C:\Users\Maikro\Desktop\VisualBasic\ZapateriaBeta1.2\Zapateria\obj\x86\Debug\Zapateria.Ventas.resources
+C:\Users\Maikro\Desktop\VisualBasic\ZapateriaBeta1.2\Zapateria\obj\x86\Debug\Zapateria.Salir.resources
+C:\Users\Gabriel\Documents\Proyecto\ZapateriaBeta1.2\Zapateria\obj\x86\Debug\Zapateria.Salir.resources
+C:\Users\Vanina Ariño\Desktop\Nueva carpeta (3)\ZapateriaBeta1.2\Zapateria\bin\Debug\Zapateria.exe.config
+C:\Users\Vanina Ariño\Desktop\Nueva carpeta (3)\ZapateriaBeta1.2\Zapateria\obj\x86\Debug\Zapateria.exe
+C:\Users\Vanina Ariño\Desktop\Nueva carpeta (3)\ZapateriaBeta1.2\Zapateria\obj\x86\Debug\Zapateria.xml
+C:\Users\Vanina Ariño\Desktop\Nueva carpeta (3)\ZapateriaBeta1.2\Zapateria\obj\x86\Debug\Zapateria.pdb
+C:\Users\Vanina Ariño\Desktop\Nueva carpeta (3)\ZapateriaBeta1.2\Zapateria\bin\Debug\Zapateria.sdf
+C:\Users\Vanina Ariño\Desktop\Nueva carpeta (3)\ZapateriaBeta1.2\Zapateria\bin\Debug\Zapateria.exe
+C:\Users\Vanina Ariño\Desktop\Nueva carpeta (3)\ZapateriaBeta1.2\Zapateria\bin\Debug\Zapateria.pdb
+C:\Users\Vanina Ariño\Desktop\Nueva carpeta (3)\ZapateriaBeta1.2\Zapateria\bin\Debug\Zapateria.xml
+C:\Users\Vanina Ariño\Desktop\Nueva carpeta (3)\ZapateriaBeta1.2\Zapateria\obj\x86\Debug\Zapateria.vbprojResolveAssemblyReference.cache
+C:\Users\Vanina Ariño\Desktop\Nueva carpeta (3)\ZapateriaBeta1.2\Zapateria\obj\x86\Debug\Zapateria.AltaCli.resources
+C:\Users\Vanina Ariño\Desktop\Nueva carpeta (3)\ZapateriaBeta1.2\Zapateria\obj\x86\Debug\Zapateria.AltaEmpl.resources
+C:\Users\Vanina Ariño\Desktop\Nueva carpeta (3)\ZapateriaBeta1.2\Zapateria\obj\x86\Debug\Zapateria.AltaLoc.resources
+C:\Users\Vanina Ariño\Desktop\Nueva carpeta (3)\ZapateriaBeta1.2\Zapateria\obj\x86\Debug\Zapateria.AltaMarca.resources
+C:\Users\Vanina Ariño\Desktop\Nueva carpeta (3)\ZapateriaBeta1.2\Zapateria\obj\x86\Debug\Zapateria.AltasProv.resources
+C:\Users\Vanina Ariño\Desktop\Nueva carpeta (3)\ZapateriaBeta1.2\Zapateria\obj\x86\Debug\Zapateria.Alta_Producto.resources
+C:\Users\Vanina Ariño\Desktop\Nueva carpeta (3)\ZapateriaBeta1.2\Zapateria\obj\x86\Debug\Zapateria.BuscarCli.resources
+C:\Users\Vanina Ariño\Desktop\Nueva carpeta (3)\ZapateriaBeta1.2\Zapateria\obj\x86\Debug\Zapateria.BuscarEmp.resources
+C:\Users\Vanina Ariño\Desktop\Nueva carpeta (3)\ZapateriaBeta1.2\Zapateria\obj\x86\Debug\Zapateria.BuscarProv.resources
+C:\Users\Vanina Ariño\Desktop\Nueva carpeta (3)\ZapateriaBeta1.2\Zapateria\obj\x86\Debug\Zapateria.Buscar_Productos.resources
+C:\Users\Vanina Ariño\Desktop\Nueva carpeta (3)\ZapateriaBeta1.2\Zapateria\obj\x86\Debug\Zapateria.Client.resources
+C:\Users\Vanina Ariño\Desktop\Nueva carpeta (3)\ZapateriaBeta1.2\Zapateria\obj\x86\Debug\Zapateria.Empl.resources
+C:\Users\Vanina Ariño\Desktop\Nueva carpeta (3)\ZapateriaBeta1.2\Zapateria\obj\x86\Debug\Zapateria.ElimLoc.resources
+C:\Users\Vanina Ariño\Desktop\Nueva carpeta (3)\ZapateriaBeta1.2\Zapateria\obj\x86\Debug\Zapateria.ModClient.resources
+C:\Users\Vanina Ariño\Desktop\Nueva carpeta (3)\ZapateriaBeta1.2\Zapateria\obj\x86\Debug\Zapateria.ModEmpl.resources
+C:\Users\Vanina Ariño\Desktop\Nueva carpeta (3)\ZapateriaBeta1.2\Zapateria\obj\x86\Debug\Zapateria.ModLoc.resources
+C:\Users\Vanina Ariño\Desktop\Nueva carpeta (3)\ZapateriaBeta1.2\Zapateria\obj\x86\Debug\Zapateria.ModProv.resources
+C:\Users\Vanina Ariño\Desktop\Nueva carpeta (3)\ZapateriaBeta1.2\Zapateria\obj\x86\Debug\Zapateria.MostrarLoc.resources
+C:\Users\Vanina Ariño\Desktop\Nueva carpeta (3)\ZapateriaBeta1.2\Zapateria\obj\x86\Debug\Zapateria.Resources.resources
+C:\Users\Vanina Ariño\Desktop\Nueva carpeta (3)\ZapateriaBeta1.2\Zapateria\obj\x86\Debug\Zapateria.Principal.resources
+C:\Users\Vanina Ariño\Desktop\Nueva carpeta (3)\ZapateriaBeta1.2\Zapateria\obj\x86\Debug\Zapateria.Principal_Producto.resources
+C:\Users\Vanina Ariño\Desktop\Nueva carpeta (3)\ZapateriaBeta1.2\Zapateria\obj\x86\Debug\Zapateria.Prov.resources
+C:\Users\Vanina Ariño\Desktop\Nueva carpeta (3)\ZapateriaBeta1.2\Zapateria\obj\x86\Debug\Zapateria.Salir.resources
+C:\Users\Vanina Ariño\Desktop\Nueva carpeta (3)\ZapateriaBeta1.2\Zapateria\obj\x86\Debug\Zapateria.Ventas.resources
+C:\Users\Vanina Ariño\Desktop\Nueva carpeta (3)\ZapateriaBeta1.2\Zapateria\obj\x86\Debug\Zapateria.vbproj.GenerateResource.Cache
+C:\Users\Maikro\Desktop\VisualBasic\lo que paso vani\ZapateriaBeta1.2-20181018T145814Z-001\ZapateriaBeta1.2\Zapateria\bin\Debug\Zapateria.exe.config
+C:\Users\Maikro\Desktop\VisualBasic\lo que paso vani\ZapateriaBeta1.2-20181018T145814Z-001\ZapateriaBeta1.2\Zapateria\obj\x86\Debug\Zapateria.xml
+C:\Users\Maikro\Desktop\VisualBasic\lo que paso vani\ZapateriaBeta1.2-20181018T145814Z-001\ZapateriaBeta1.2\Zapateria\obj\x86\Debug\Zapateria.pdb
+C:\Users\Maikro\Desktop\VisualBasic\lo que paso vani\ZapateriaBeta1.2-20181018T145814Z-001\ZapateriaBeta1.2\Zapateria\bin\Debug\Zapateria.sdf
+C:\Users\Maikro\Desktop\VisualBasic\lo que paso vani\ZapateriaBeta1.2-20181018T145814Z-001\ZapateriaBeta1.2\Zapateria\bin\Debug\Zapateria.exe
+C:\Users\Maikro\Desktop\VisualBasic\lo que paso vani\ZapateriaBeta1.2-20181018T145814Z-001\ZapateriaBeta1.2\Zapateria\bin\Debug\Zapateria.pdb
+C:\Users\Maikro\Desktop\VisualBasic\lo que paso vani\ZapateriaBeta1.2-20181018T145814Z-001\ZapateriaBeta1.2\Zapateria\bin\Debug\Zapateria.xml
+C:\Users\Maikro\Desktop\VisualBasic\lo que paso vani\ZapateriaBeta1.2-20181018T145814Z-001\ZapateriaBeta1.2\Zapateria\obj\x86\Debug\Zapateria.vbprojResolveAssemblyReference.cache
+C:\Users\Maikro\Desktop\VisualBasic\lo que paso vani\ZapateriaBeta1.2-20181018T145814Z-001\ZapateriaBeta1.2\Zapateria\obj\x86\Debug\Zapateria.AltaCli.resources
+C:\Users\Maikro\Desktop\VisualBasic\lo que paso vani\ZapateriaBeta1.2-20181018T145814Z-001\ZapateriaBeta1.2\Zapateria\obj\x86\Debug\Zapateria.AltaEmpl.resources
+C:\Users\Maikro\Desktop\VisualBasic\lo que paso vani\ZapateriaBeta1.2-20181018T145814Z-001\ZapateriaBeta1.2\Zapateria\obj\x86\Debug\Zapateria.AltaLoc.resources
+C:\Users\Maikro\Desktop\VisualBasic\lo que paso vani\ZapateriaBeta1.2-20181018T145814Z-001\ZapateriaBeta1.2\Zapateria\obj\x86\Debug\Zapateria.AltaMarca.resources
+C:\Users\Maikro\Desktop\VisualBasic\lo que paso vani\ZapateriaBeta1.2-20181018T145814Z-001\ZapateriaBeta1.2\Zapateria\obj\x86\Debug\Zapateria.AltasProv.resources
+C:\Users\Maikro\Desktop\VisualBasic\lo que paso vani\ZapateriaBeta1.2-20181018T145814Z-001\ZapateriaBeta1.2\Zapateria\obj\x86\Debug\Zapateria.Alta_Producto.resources
+C:\Users\Maikro\Desktop\VisualBasic\lo que paso vani\ZapateriaBeta1.2-20181018T145814Z-001\ZapateriaBeta1.2\Zapateria\obj\x86\Debug\Zapateria.BuscarCli.resources
+C:\Users\Maikro\Desktop\VisualBasic\lo que paso vani\ZapateriaBeta1.2-20181018T145814Z-001\ZapateriaBeta1.2\Zapateria\obj\x86\Debug\Zapateria.BuscarEmp.resources
+C:\Users\Maikro\Desktop\VisualBasic\lo que paso vani\ZapateriaBeta1.2-20181018T145814Z-001\ZapateriaBeta1.2\Zapateria\obj\x86\Debug\Zapateria.BuscarProv.resources
+C:\Users\Maikro\Desktop\VisualBasic\lo que paso vani\ZapateriaBeta1.2-20181018T145814Z-001\ZapateriaBeta1.2\Zapateria\obj\x86\Debug\Zapateria.Buscar_Productos.resources
+C:\Users\Maikro\Desktop\VisualBasic\lo que paso vani\ZapateriaBeta1.2-20181018T145814Z-001\ZapateriaBeta1.2\Zapateria\obj\x86\Debug\Zapateria.Client.resources
+C:\Users\Maikro\Desktop\VisualBasic\lo que paso vani\ZapateriaBeta1.2-20181018T145814Z-001\ZapateriaBeta1.2\Zapateria\obj\x86\Debug\Zapateria.Empl.resources
+C:\Users\Maikro\Desktop\VisualBasic\lo que paso vani\ZapateriaBeta1.2-20181018T145814Z-001\ZapateriaBeta1.2\Zapateria\obj\x86\Debug\Zapateria.ElimLoc.resources
+C:\Users\Maikro\Desktop\VisualBasic\lo que paso vani\ZapateriaBeta1.2-20181018T145814Z-001\ZapateriaBeta1.2\Zapateria\obj\x86\Debug\Zapateria.ModClient.resources
+C:\Users\Maikro\Desktop\VisualBasic\lo que paso vani\ZapateriaBeta1.2-20181018T145814Z-001\ZapateriaBeta1.2\Zapateria\obj\x86\Debug\Zapateria.ModEmpl.resources
+C:\Users\Maikro\Desktop\VisualBasic\lo que paso vani\ZapateriaBeta1.2-20181018T145814Z-001\ZapateriaBeta1.2\Zapateria\obj\x86\Debug\Zapateria.ModLoc.resources
+C:\Users\Maikro\Desktop\VisualBasic\lo que paso vani\ZapateriaBeta1.2-20181018T145814Z-001\ZapateriaBeta1.2\Zapateria\obj\x86\Debug\Zapateria.ModProv.resources
+C:\Users\Maikro\Desktop\VisualBasic\lo que paso vani\ZapateriaBeta1.2-20181018T145814Z-001\ZapateriaBeta1.2\Zapateria\obj\x86\Debug\Zapateria.MostrarLoc.resources
+C:\Users\Maikro\Desktop\VisualBasic\lo que paso vani\ZapateriaBeta1.2-20181018T145814Z-001\ZapateriaBeta1.2\Zapateria\obj\x86\Debug\Zapateria.Resources.resources
+C:\Users\Maikro\Desktop\VisualBasic\lo que paso vani\ZapateriaBeta1.2-20181018T145814Z-001\ZapateriaBeta1.2\Zapateria\obj\x86\Debug\Zapateria.Principal.resources
+C:\Users\Maikro\Desktop\VisualBasic\lo que paso vani\ZapateriaBeta1.2-20181018T145814Z-001\ZapateriaBeta1.2\Zapateria\obj\x86\Debug\Zapateria.Principal_Producto.resources
+C:\Users\Maikro\Desktop\VisualBasic\lo que paso vani\ZapateriaBeta1.2-20181018T145814Z-001\ZapateriaBeta1.2\Zapateria\obj\x86\Debug\Zapateria.Prov.resources
+C:\Users\Maikro\Desktop\VisualBasic\lo que paso vani\ZapateriaBeta1.2-20181018T145814Z-001\ZapateriaBeta1.2\Zapateria\obj\x86\Debug\Zapateria.Salir.resources
+C:\Users\Maikro\Desktop\VisualBasic\lo que paso vani\ZapateriaBeta1.2-20181018T145814Z-001\ZapateriaBeta1.2\Zapateria\obj\x86\Debug\Zapateria.Ventas.resources
+C:\Users\Maikro\Desktop\VisualBasic\lo que paso vani\ZapateriaBeta1.2-20181018T145814Z-001\ZapateriaBeta1.2\Zapateria\obj\x86\Debug\Zapateria.vbproj.GenerateResource.Cache
+C:\Users\Maikro\Desktop\VisualBasic\lo que paso vani\ZapateriaBeta1.2-20181018T145814Z-001\ZapateriaBeta1.2\Zapateria\obj\x86\Debug\Zapateria.exe
+C:\Users\Gabriel\Downloads\ZapateriaBeta1.2 - terminando-20181018T170032Z-001\ZapateriaBeta1.2 - terminando\Zapateria\bin\Debug\Zapateria.exe.config
+C:\Users\Gabriel\Downloads\ZapateriaBeta1.2 - terminando-20181018T170032Z-001\ZapateriaBeta1.2 - terminando\Zapateria\obj\x86\Debug\Zapateria.exe
+C:\Users\Gabriel\Downloads\ZapateriaBeta1.2 - terminando-20181018T170032Z-001\ZapateriaBeta1.2 - terminando\Zapateria\obj\x86\Debug\Zapateria.xml
+C:\Users\Gabriel\Downloads\ZapateriaBeta1.2 - terminando-20181018T170032Z-001\ZapateriaBeta1.2 - terminando\Zapateria\obj\x86\Debug\Zapateria.pdb
+C:\Users\Gabriel\Downloads\ZapateriaBeta1.2 - terminando-20181018T170032Z-001\ZapateriaBeta1.2 - terminando\Zapateria\bin\Debug\Zapateria.sdf
+C:\Users\Gabriel\Downloads\ZapateriaBeta1.2 - terminando-20181018T170032Z-001\ZapateriaBeta1.2 - terminando\Zapateria\bin\Debug\Zapateria.exe
+C:\Users\Gabriel\Downloads\ZapateriaBeta1.2 - terminando-20181018T170032Z-001\ZapateriaBeta1.2 - terminando\Zapateria\bin\Debug\Zapateria.pdb
+C:\Users\Gabriel\Downloads\ZapateriaBeta1.2 - terminando-20181018T170032Z-001\ZapateriaBeta1.2 - terminando\Zapateria\bin\Debug\Zapateria.xml
+C:\Users\Gabriel\Downloads\ZapateriaBeta1.2 - terminando-20181018T170032Z-001\ZapateriaBeta1.2 - terminando\Zapateria\obj\x86\Debug\Zapateria.vbprojResolveAssemblyReference.cache
+C:\Users\Gabriel\Downloads\ZapateriaBeta1.2 - terminando-20181018T170032Z-001\ZapateriaBeta1.2 - terminando\Zapateria\obj\x86\Debug\Zapateria.AltaCli.resources
+C:\Users\Gabriel\Downloads\ZapateriaBeta1.2 - terminando-20181018T170032Z-001\ZapateriaBeta1.2 - terminando\Zapateria\obj\x86\Debug\Zapateria.AltaEmpl.resources
+C:\Users\Gabriel\Downloads\ZapateriaBeta1.2 - terminando-20181018T170032Z-001\ZapateriaBeta1.2 - terminando\Zapateria\obj\x86\Debug\Zapateria.AltaLoc.resources
+C:\Users\Gabriel\Downloads\ZapateriaBeta1.2 - terminando-20181018T170032Z-001\ZapateriaBeta1.2 - terminando\Zapateria\obj\x86\Debug\Zapateria.AltaMarca.resources
+C:\Users\Gabriel\Downloads\ZapateriaBeta1.2 - terminando-20181018T170032Z-001\ZapateriaBeta1.2 - terminando\Zapateria\obj\x86\Debug\Zapateria.AltasProv.resources
+C:\Users\Gabriel\Downloads\ZapateriaBeta1.2 - terminando-20181018T170032Z-001\ZapateriaBeta1.2 - terminando\Zapateria\obj\x86\Debug\Zapateria.Alta_Producto.resources
+C:\Users\Gabriel\Downloads\ZapateriaBeta1.2 - terminando-20181018T170032Z-001\ZapateriaBeta1.2 - terminando\Zapateria\obj\x86\Debug\Zapateria.BuscarCli.resources
+C:\Users\Gabriel\Downloads\ZapateriaBeta1.2 - terminando-20181018T170032Z-001\ZapateriaBeta1.2 - terminando\Zapateria\obj\x86\Debug\Zapateria.BuscarEmp.resources
+C:\Users\Gabriel\Downloads\ZapateriaBeta1.2 - terminando-20181018T170032Z-001\ZapateriaBeta1.2 - terminando\Zapateria\obj\x86\Debug\Zapateria.BuscarProv.resources
+C:\Users\Gabriel\Downloads\ZapateriaBeta1.2 - terminando-20181018T170032Z-001\ZapateriaBeta1.2 - terminando\Zapateria\obj\x86\Debug\Zapateria.Buscar_Productos.resources
+C:\Users\Gabriel\Downloads\ZapateriaBeta1.2 - terminando-20181018T170032Z-001\ZapateriaBeta1.2 - terminando\Zapateria\obj\x86\Debug\Zapateria.Client.resources
+C:\Users\Gabriel\Downloads\ZapateriaBeta1.2 - terminando-20181018T170032Z-001\ZapateriaBeta1.2 - terminando\Zapateria\obj\x86\Debug\Zapateria.Empl.resources
+C:\Users\Gabriel\Downloads\ZapateriaBeta1.2 - terminando-20181018T170032Z-001\ZapateriaBeta1.2 - terminando\Zapateria\obj\x86\Debug\Zapateria.ElimLoc.resources
+C:\Users\Gabriel\Downloads\ZapateriaBeta1.2 - terminando-20181018T170032Z-001\ZapateriaBeta1.2 - terminando\Zapateria\obj\x86\Debug\Zapateria.ModClient.resources
+C:\Users\Gabriel\Downloads\ZapateriaBeta1.2 - terminando-20181018T170032Z-001\ZapateriaBeta1.2 - terminando\Zapateria\obj\x86\Debug\Zapateria.ModEmpl.resources
+C:\Users\Gabriel\Downloads\ZapateriaBeta1.2 - terminando-20181018T170032Z-001\ZapateriaBeta1.2 - terminando\Zapateria\obj\x86\Debug\Zapateria.ModLoc.resources
+C:\Users\Gabriel\Downloads\ZapateriaBeta1.2 - terminando-20181018T170032Z-001\ZapateriaBeta1.2 - terminando\Zapateria\obj\x86\Debug\Zapateria.ModProv.resources
+C:\Users\Gabriel\Downloads\ZapateriaBeta1.2 - terminando-20181018T170032Z-001\ZapateriaBeta1.2 - terminando\Zapateria\obj\x86\Debug\Zapateria.MostrarLoc.resources
+C:\Users\Gabriel\Downloads\ZapateriaBeta1.2 - terminando-20181018T170032Z-001\ZapateriaBeta1.2 - terminando\Zapateria\obj\x86\Debug\Zapateria.Resources.resources
+C:\Users\Gabriel\Downloads\ZapateriaBeta1.2 - terminando-20181018T170032Z-001\ZapateriaBeta1.2 - terminando\Zapateria\obj\x86\Debug\Zapateria.Principal.resources
+C:\Users\Gabriel\Downloads\ZapateriaBeta1.2 - terminando-20181018T170032Z-001\ZapateriaBeta1.2 - terminando\Zapateria\obj\x86\Debug\Zapateria.Principal_Producto.resources
+C:\Users\Gabriel\Downloads\ZapateriaBeta1.2 - terminando-20181018T170032Z-001\ZapateriaBeta1.2 - terminando\Zapateria\obj\x86\Debug\Zapateria.Prov.resources
+C:\Users\Gabriel\Downloads\ZapateriaBeta1.2 - terminando-20181018T170032Z-001\ZapateriaBeta1.2 - terminando\Zapateria\obj\x86\Debug\Zapateria.Salir.resources
+C:\Users\Gabriel\Downloads\ZapateriaBeta1.2 - terminando-20181018T170032Z-001\ZapateriaBeta1.2 - terminando\Zapateria\obj\x86\Debug\Zapateria.Ventas.resources
+C:\Users\Gabriel\Downloads\ZapateriaBeta1.2 - terminando-20181018T170032Z-001\ZapateriaBeta1.2 - terminando\Zapateria\obj\x86\Debug\Zapateria.vbproj.GenerateResource.Cache
+C:\Users\Vanina Ariño\Desktop\Nueva carpeta (4)\ZapateriaBeta1.2 - terminando\Zapateria\bin\Debug\Zapateria.exe.config
+C:\Users\Vanina Ariño\Desktop\Nueva carpeta (4)\ZapateriaBeta1.2 - terminando\Zapateria\obj\x86\Debug\Zapateria.exe
+C:\Users\Vanina Ariño\Desktop\Nueva carpeta (4)\ZapateriaBeta1.2 - terminando\Zapateria\obj\x86\Debug\Zapateria.xml
+C:\Users\Vanina Ariño\Desktop\Nueva carpeta (4)\ZapateriaBeta1.2 - terminando\Zapateria\obj\x86\Debug\Zapateria.pdb
+C:\Users\Vanina Ariño\Desktop\Nueva carpeta (4)\ZapateriaBeta1.2 - terminando\Zapateria\bin\Debug\Zapateria.sdf
+C:\Users\Vanina Ariño\Desktop\Nueva carpeta (4)\ZapateriaBeta1.2 - terminando\Zapateria\bin\Debug\Zapateria.exe
+C:\Users\Vanina Ariño\Desktop\Nueva carpeta (4)\ZapateriaBeta1.2 - terminando\Zapateria\bin\Debug\Zapateria.pdb
+C:\Users\Vanina Ariño\Desktop\Nueva carpeta (4)\ZapateriaBeta1.2 - terminando\Zapateria\bin\Debug\Zapateria.xml
+C:\Users\Vanina Ariño\Desktop\Nueva carpeta (4)\ZapateriaBeta1.2 - terminando\Zapateria\obj\x86\Debug\Zapateria.vbprojResolveAssemblyReference.cache
+C:\Users\Vanina Ariño\Desktop\Nueva carpeta (4)\ZapateriaBeta1.2 - terminando\Zapateria\obj\x86\Debug\Zapateria.AltaCli.resources
+C:\Users\Vanina Ariño\Desktop\Nueva carpeta (4)\ZapateriaBeta1.2 - terminando\Zapateria\obj\x86\Debug\Zapateria.AltaEmpl.resources
+C:\Users\Vanina Ariño\Desktop\Nueva carpeta (4)\ZapateriaBeta1.2 - terminando\Zapateria\obj\x86\Debug\Zapateria.AltaLoc.resources
+C:\Users\Vanina Ariño\Desktop\Nueva carpeta (4)\ZapateriaBeta1.2 - terminando\Zapateria\obj\x86\Debug\Zapateria.AltaMarca.resources
+C:\Users\Vanina Ariño\Desktop\Nueva carpeta (4)\ZapateriaBeta1.2 - terminando\Zapateria\obj\x86\Debug\Zapateria.AltasProv.resources
+C:\Users\Vanina Ariño\Desktop\Nueva carpeta (4)\ZapateriaBeta1.2 - terminando\Zapateria\obj\x86\Debug\Zapateria.Alta_Producto.resources
+C:\Users\Vanina Ariño\Desktop\Nueva carpeta (4)\ZapateriaBeta1.2 - terminando\Zapateria\obj\x86\Debug\Zapateria.BuscarCli.resources
+C:\Users\Vanina Ariño\Desktop\Nueva carpeta (4)\ZapateriaBeta1.2 - terminando\Zapateria\obj\x86\Debug\Zapateria.BuscarEmp.resources
+C:\Users\Vanina Ariño\Desktop\Nueva carpeta (4)\ZapateriaBeta1.2 - terminando\Zapateria\obj\x86\Debug\Zapateria.BuscarProv.resources
+C:\Users\Vanina Ariño\Desktop\Nueva carpeta (4)\ZapateriaBeta1.2 - terminando\Zapateria\obj\x86\Debug\Zapateria.Buscar_Productos.resources
+C:\Users\Vanina Ariño\Desktop\Nueva carpeta (4)\ZapateriaBeta1.2 - terminando\Zapateria\obj\x86\Debug\Zapateria.Client.resources
+C:\Users\Vanina Ariño\Desktop\Nueva carpeta (4)\ZapateriaBeta1.2 - terminando\Zapateria\obj\x86\Debug\Zapateria.Empl.resources
+C:\Users\Vanina Ariño\Desktop\Nueva carpeta (4)\ZapateriaBeta1.2 - terminando\Zapateria\obj\x86\Debug\Zapateria.ElimLoc.resources
+C:\Users\Vanina Ariño\Desktop\Nueva carpeta (4)\ZapateriaBeta1.2 - terminando\Zapateria\obj\x86\Debug\Zapateria.ModClient.resources
+C:\Users\Vanina Ariño\Desktop\Nueva carpeta (4)\ZapateriaBeta1.2 - terminando\Zapateria\obj\x86\Debug\Zapateria.ModEmpl.resources
+C:\Users\Vanina Ariño\Desktop\Nueva carpeta (4)\ZapateriaBeta1.2 - terminando\Zapateria\obj\x86\Debug\Zapateria.ModLoc.resources
+C:\Users\Vanina Ariño\Desktop\Nueva carpeta (4)\ZapateriaBeta1.2 - terminando\Zapateria\obj\x86\Debug\Zapateria.ModProv.resources
+C:\Users\Vanina Ariño\Desktop\Nueva carpeta (4)\ZapateriaBeta1.2 - terminando\Zapateria\obj\x86\Debug\Zapateria.MostrarLoc.resources
+C:\Users\Vanina Ariño\Desktop\Nueva carpeta (4)\ZapateriaBeta1.2 - terminando\Zapateria\obj\x86\Debug\Zapateria.Resources.resources
+C:\Users\Vanina Ariño\Desktop\Nueva carpeta (4)\ZapateriaBeta1.2 - terminando\Zapateria\obj\x86\Debug\Zapateria.Principal.resources
+C:\Users\Vanina Ariño\Desktop\Nueva carpeta (4)\ZapateriaBeta1.2 - terminando\Zapateria\obj\x86\Debug\Zapateria.Principal_Producto.resources
+C:\Users\Vanina Ariño\Desktop\Nueva carpeta (4)\ZapateriaBeta1.2 - terminando\Zapateria\obj\x86\Debug\Zapateria.Prov.resources
+C:\Users\Vanina Ariño\Desktop\Nueva carpeta (4)\ZapateriaBeta1.2 - terminando\Zapateria\obj\x86\Debug\Zapateria.Salir.resources
+C:\Users\Vanina Ariño\Desktop\Nueva carpeta (4)\ZapateriaBeta1.2 - terminando\Zapateria\obj\x86\Debug\Zapateria.Ventas.resources
+C:\Users\Vanina Ariño\Desktop\Nueva carpeta (4)\ZapateriaBeta1.2 - terminando\Zapateria\obj\x86\Debug\Zapateria.vbproj.GenerateResource.Cache
+D:\TRABAJO ENTREGA\ZapateriaBeta1.2 - terminando\Zapateria\bin\Debug\Zapateria.exe.config
+D:\TRABAJO ENTREGA\ZapateriaBeta1.2 - terminando\Zapateria\obj\x86\Debug\Zapateria.exe
+D:\TRABAJO ENTREGA\ZapateriaBeta1.2 - terminando\Zapateria\obj\x86\Debug\Zapateria.xml
+D:\TRABAJO ENTREGA\ZapateriaBeta1.2 - terminando\Zapateria\obj\x86\Debug\Zapateria.pdb
+C:\Users\Vanina Ariño\Desktop\ZapateriaBeta1.2 - terminando\Zapateria\bin\Debug\Zapateria.exe.config
+C:\Users\Vanina Ariño\Desktop\ZapateriaBeta1.2 - terminando\Zapateria\obj\x86\Debug\Zapateria.exe
+C:\Users\Vanina Ariño\Desktop\ZapateriaBeta1.2 - terminando\Zapateria\obj\x86\Debug\Zapateria.xml
+C:\Users\Vanina Ariño\Desktop\ZapateriaBeta1.2 - terminando\Zapateria\obj\x86\Debug\Zapateria.pdb
+C:\Users\Vanina Ariño\Desktop\ZapateriaBeta1.2 - terminando\Zapateria\bin\Debug\Zapateria.sdf
+C:\Users\Vanina Ariño\Desktop\ZapateriaBeta1.2 - terminando\Zapateria\bin\Debug\Zapateria.exe
+C:\Users\Vanina Ariño\Desktop\ZapateriaBeta1.2 - terminando\Zapateria\bin\Debug\Zapateria.pdb
+C:\Users\Vanina Ariño\Desktop\ZapateriaBeta1.2 - terminando\Zapateria\bin\Debug\Zapateria.xml
+C:\Users\Vanina Ariño\Desktop\ZapateriaBeta1.2 - terminando\Zapateria\obj\x86\Debug\Zapateria.vbprojResolveAssemblyReference.cache
+C:\Users\Vanina Ariño\Desktop\ZapateriaBeta1.2 - terminando\Zapateria\obj\x86\Debug\Zapateria.AltaCli.resources
+C:\Users\Vanina Ariño\Desktop\ZapateriaBeta1.2 - terminando\Zapateria\obj\x86\Debug\Zapateria.AltaEmpl.resources
+C:\Users\Vanina Ariño\Desktop\ZapateriaBeta1.2 - terminando\Zapateria\obj\x86\Debug\Zapateria.AltaLoc.resources
+C:\Users\Vanina Ariño\Desktop\ZapateriaBeta1.2 - terminando\Zapateria\obj\x86\Debug\Zapateria.AltaMarca.resources
+C:\Users\Vanina Ariño\Desktop\ZapateriaBeta1.2 - terminando\Zapateria\obj\x86\Debug\Zapateria.AltasProv.resources
+C:\Users\Vanina Ariño\Desktop\ZapateriaBeta1.2 - terminando\Zapateria\obj\x86\Debug\Zapateria.Alta_Producto.resources
+C:\Users\Vanina Ariño\Desktop\ZapateriaBeta1.2 - terminando\Zapateria\obj\x86\Debug\Zapateria.BuscarCli.resources
+C:\Users\Vanina Ariño\Desktop\ZapateriaBeta1.2 - terminando\Zapateria\obj\x86\Debug\Zapateria.BuscarEmp.resources
+C:\Users\Vanina Ariño\Desktop\ZapateriaBeta1.2 - terminando\Zapateria\obj\x86\Debug\Zapateria.BuscarProv.resources
+C:\Users\Vanina Ariño\Desktop\ZapateriaBeta1.2 - terminando\Zapateria\obj\x86\Debug\Zapateria.Buscar_Productos.resources
+C:\Users\Vanina Ariño\Desktop\ZapateriaBeta1.2 - terminando\Zapateria\obj\x86\Debug\Zapateria.Client.resources
+C:\Users\Vanina Ariño\Desktop\ZapateriaBeta1.2 - terminando\Zapateria\obj\x86\Debug\Zapateria.Empl.resources
+C:\Users\Vanina Ariño\Desktop\ZapateriaBeta1.2 - terminando\Zapateria\obj\x86\Debug\Zapateria.ElimLoc.resources
+C:\Users\Vanina Ariño\Desktop\ZapateriaBeta1.2 - terminando\Zapateria\obj\x86\Debug\Zapateria.ModClient.resources
+C:\Users\Vanina Ariño\Desktop\ZapateriaBeta1.2 - terminando\Zapateria\obj\x86\Debug\Zapateria.ModEmpl.resources
+C:\Users\Vanina Ariño\Desktop\ZapateriaBeta1.2 - terminando\Zapateria\obj\x86\Debug\Zapateria.ModLoc.resources
+C:\Users\Vanina Ariño\Desktop\ZapateriaBeta1.2 - terminando\Zapateria\obj\x86\Debug\Zapateria.ModProv.resources
+C:\Users\Vanina Ariño\Desktop\ZapateriaBeta1.2 - terminando\Zapateria\obj\x86\Debug\Zapateria.MostrarLoc.resources
+C:\Users\Vanina Ariño\Desktop\ZapateriaBeta1.2 - terminando\Zapateria\obj\x86\Debug\Zapateria.Resources.resources
+C:\Users\Vanina Ariño\Desktop\ZapateriaBeta1.2 - terminando\Zapateria\obj\x86\Debug\Zapateria.Principal.resources
+C:\Users\Vanina Ariño\Desktop\ZapateriaBeta1.2 - terminando\Zapateria\obj\x86\Debug\Zapateria.Principal_Producto.resources
+C:\Users\Vanina Ariño\Desktop\ZapateriaBeta1.2 - terminando\Zapateria\obj\x86\Debug\Zapateria.Prov.resources
+C:\Users\Vanina Ariño\Desktop\ZapateriaBeta1.2 - terminando\Zapateria\obj\x86\Debug\Zapateria.Salir.resources
+C:\Users\Vanina Ariño\Desktop\ZapateriaBeta1.2 - terminando\Zapateria\obj\x86\Debug\Zapateria.Ventas.resources
+C:\Users\Vanina Ariño\Desktop\ZapateriaBeta1.2 - terminando\Zapateria\obj\x86\Debug\Zapateria.vbproj.GenerateResource.Cache
+C:\Users\pc24\Desktop\Programacion2 Nuevo\ZapateriaBeta1.2 - terminando\Zapateria\bin\Debug\Zapateria.exe.config
+C:\Users\pc24\Desktop\Programacion2 Nuevo\ZapateriaBeta1.2 - terminando\Zapateria\obj\x86\Debug\Zapateria.exe
+C:\Users\pc24\Desktop\Programacion2 Nuevo\ZapateriaBeta1.2 - terminando\Zapateria\obj\x86\Debug\Zapateria.xml
+C:\Users\pc24\Desktop\Programacion2 Nuevo\ZapateriaBeta1.2 - terminando\Zapateria\obj\x86\Debug\Zapateria.pdb
+C:\Users\pc24\Desktop\Programacion2 Nuevo\ZapateriaBeta1.2 - terminando\Zapateria\bin\Debug\Zapateria.sdf
+C:\Users\pc24\Desktop\Programacion2 Nuevo\ZapateriaBeta1.2 - terminando\Zapateria\bin\Debug\Zapateria.exe
+C:\Users\pc24\Desktop\Programacion2 Nuevo\ZapateriaBeta1.2 - terminando\Zapateria\bin\Debug\Zapateria.pdb
+C:\Users\pc24\Desktop\Programacion2 Nuevo\ZapateriaBeta1.2 - terminando\Zapateria\bin\Debug\Zapateria.xml
+C:\Users\pc24\Desktop\Programacion2 Nuevo\ZapateriaBeta1.2 - terminando\Zapateria\obj\x86\Debug\Zapateria.vbprojResolveAssemblyReference.cache
+C:\Users\pc24\Desktop\Programacion2 Nuevo\ZapateriaBeta1.2 - terminando\Zapateria\obj\x86\Debug\Zapateria.AltaCli.resources
+C:\Users\pc24\Desktop\Programacion2 Nuevo\ZapateriaBeta1.2 - terminando\Zapateria\obj\x86\Debug\Zapateria.AltaEmpl.resources
+C:\Users\pc24\Desktop\Programacion2 Nuevo\ZapateriaBeta1.2 - terminando\Zapateria\obj\x86\Debug\Zapateria.AltaLoc.resources
+C:\Users\pc24\Desktop\Programacion2 Nuevo\ZapateriaBeta1.2 - terminando\Zapateria\obj\x86\Debug\Zapateria.AltaMarca.resources
+C:\Users\pc24\Desktop\Programacion2 Nuevo\ZapateriaBeta1.2 - terminando\Zapateria\obj\x86\Debug\Zapateria.AltasProv.resources
+C:\Users\pc24\Desktop\Programacion2 Nuevo\ZapateriaBeta1.2 - terminando\Zapateria\obj\x86\Debug\Zapateria.Alta_Producto.resources
+C:\Users\pc24\Desktop\Programacion2 Nuevo\ZapateriaBeta1.2 - terminando\Zapateria\obj\x86\Debug\Zapateria.BuscarCli.resources
+C:\Users\pc24\Desktop\Programacion2 Nuevo\ZapateriaBeta1.2 - terminando\Zapateria\obj\x86\Debug\Zapateria.BuscarEmp.resources
+C:\Users\pc24\Desktop\Programacion2 Nuevo\ZapateriaBeta1.2 - terminando\Zapateria\obj\x86\Debug\Zapateria.BuscarProv.resources
+C:\Users\pc24\Desktop\Programacion2 Nuevo\ZapateriaBeta1.2 - terminando\Zapateria\obj\x86\Debug\Zapateria.Buscar_Productos.resources
+C:\Users\pc24\Desktop\Programacion2 Nuevo\ZapateriaBeta1.2 - terminando\Zapateria\obj\x86\Debug\Zapateria.Client.resources
+C:\Users\pc24\Desktop\Programacion2 Nuevo\ZapateriaBeta1.2 - terminando\Zapateria\obj\x86\Debug\Zapateria.Empl.resources
+C:\Users\pc24\Desktop\Programacion2 Nuevo\ZapateriaBeta1.2 - terminando\Zapateria\obj\x86\Debug\Zapateria.ElimLoc.resources
+C:\Users\pc24\Desktop\Programacion2 Nuevo\ZapateriaBeta1.2 - terminando\Zapateria\obj\x86\Debug\Zapateria.ModClient.resources
+C:\Users\pc24\Desktop\Programacion2 Nuevo\ZapateriaBeta1.2 - terminando\Zapateria\obj\x86\Debug\Zapateria.ModEmpl.resources
+C:\Users\pc24\Desktop\Programacion2 Nuevo\ZapateriaBeta1.2 - terminando\Zapateria\obj\x86\Debug\Zapateria.ModLoc.resources
+C:\Users\pc24\Desktop\Programacion2 Nuevo\ZapateriaBeta1.2 - terminando\Zapateria\obj\x86\Debug\Zapateria.ModProv.resources
+C:\Users\pc24\Desktop\Programacion2 Nuevo\ZapateriaBeta1.2 - terminando\Zapateria\obj\x86\Debug\Zapateria.MostrarLoc.resources
+C:\Users\pc24\Desktop\Programacion2 Nuevo\ZapateriaBeta1.2 - terminando\Zapateria\obj\x86\Debug\Zapateria.Resources.resources
+C:\Users\pc24\Desktop\Programacion2 Nuevo\ZapateriaBeta1.2 - terminando\Zapateria\obj\x86\Debug\Zapateria.Principal.resources
+C:\Users\pc24\Desktop\Programacion2 Nuevo\ZapateriaBeta1.2 - terminando\Zapateria\obj\x86\Debug\Zapateria.Principal_Producto.resources
+C:\Users\pc24\Desktop\Programacion2 Nuevo\ZapateriaBeta1.2 - terminando\Zapateria\obj\x86\Debug\Zapateria.Prov.resources
+C:\Users\pc24\Desktop\Programacion2 Nuevo\ZapateriaBeta1.2 - terminando\Zapateria\obj\x86\Debug\Zapateria.Salir.resources
+C:\Users\pc24\Desktop\Programacion2 Nuevo\ZapateriaBeta1.2 - terminando\Zapateria\obj\x86\Debug\Zapateria.Ventas.resources
+C:\Users\pc24\Desktop\Programacion2 Nuevo\ZapateriaBeta1.2 - terminando\Zapateria\obj\x86\Debug\Zapateria.vbproj.GenerateResource.Cache
+C:\Users\pc24\Desktop\Programacion2 Nuevo\ZapateriaBeta1.2 - terminando\Zapateria\obj\x86\Debug\Zapateria.Form1.resources
+C:\Users\Gabriel\Documents\Proyecto\Zapateria\Zapateria1.3\Zapateria\bin\Debug\Zapateria.exe.config
+C:\Users\Gabriel\Documents\Proyecto\Zapateria\Zapateria1.3\Zapateria\obj\x86\Debug\Zapateria.exe
+C:\Users\Gabriel\Documents\Proyecto\Zapateria\Zapateria1.3\Zapateria\obj\x86\Debug\Zapateria.xml
+C:\Users\Gabriel\Documents\Proyecto\Zapateria\Zapateria1.3\Zapateria\obj\x86\Debug\Zapateria.pdb
+C:\Users\Gabriel\Documents\Proyecto\Zapateria\Zapateria1.3\Zapateria\bin\Debug\Zapateria.sdf
+C:\Users\Gabriel\Documents\Proyecto\Zapateria\Zapateria1.3\Zapateria\bin\Debug\Zapateria.exe
+C:\Users\Gabriel\Documents\Proyecto\Zapateria\Zapateria1.3\Zapateria\bin\Debug\Zapateria.pdb
+C:\Users\Gabriel\Documents\Proyecto\Zapateria\Zapateria1.3\Zapateria\bin\Debug\Zapateria.xml
+C:\Users\Gabriel\Documents\Proyecto\Zapateria\Zapateria1.3\Zapateria\obj\x86\Debug\Zapateria.vbprojResolveAssemblyReference.cache
+C:\Users\Gabriel\Documents\Proyecto\Zapateria\Zapateria1.3\Zapateria\obj\x86\Debug\Zapateria.AltaCli.resources
+C:\Users\Gabriel\Documents\Proyecto\Zapateria\Zapateria1.3\Zapateria\obj\x86\Debug\Zapateria.AltaEmpl.resources
+C:\Users\Gabriel\Documents\Proyecto\Zapateria\Zapateria1.3\Zapateria\obj\x86\Debug\Zapateria.AltaLoc.resources
+C:\Users\Gabriel\Documents\Proyecto\Zapateria\Zapateria1.3\Zapateria\obj\x86\Debug\Zapateria.AltaMarca.resources
+C:\Users\Gabriel\Documents\Proyecto\Zapateria\Zapateria1.3\Zapateria\obj\x86\Debug\Zapateria.AltasProv.resources
+C:\Users\Gabriel\Documents\Proyecto\Zapateria\Zapateria1.3\Zapateria\obj\x86\Debug\Zapateria.Alta_Producto.resources
+C:\Users\Gabriel\Documents\Proyecto\Zapateria\Zapateria1.3\Zapateria\obj\x86\Debug\Zapateria.BuscarCli.resources
+C:\Users\Gabriel\Documents\Proyecto\Zapateria\Zapateria1.3\Zapateria\obj\x86\Debug\Zapateria.BuscarEmp.resources
+C:\Users\Gabriel\Documents\Proyecto\Zapateria\Zapateria1.3\Zapateria\obj\x86\Debug\Zapateria.BuscarProv.resources
+C:\Users\Gabriel\Documents\Proyecto\Zapateria\Zapateria1.3\Zapateria\obj\x86\Debug\Zapateria.Buscar_Productos.resources
+C:\Users\Gabriel\Documents\Proyecto\Zapateria\Zapateria1.3\Zapateria\obj\x86\Debug\Zapateria.Client.resources
+C:\Users\Gabriel\Documents\Proyecto\Zapateria\Zapateria1.3\Zapateria\obj\x86\Debug\Zapateria.Empl.resources
+C:\Users\Gabriel\Documents\Proyecto\Zapateria\Zapateria1.3\Zapateria\obj\x86\Debug\Zapateria.ElimLoc.resources
+C:\Users\Gabriel\Documents\Proyecto\Zapateria\Zapateria1.3\Zapateria\obj\x86\Debug\Zapateria.Form1.resources
+C:\Users\Gabriel\Documents\Proyecto\Zapateria\Zapateria1.3\Zapateria\obj\x86\Debug\Zapateria.ModClient.resources
+C:\Users\Gabriel\Documents\Proyecto\Zapateria\Zapateria1.3\Zapateria\obj\x86\Debug\Zapateria.ModEmpl.resources
+C:\Users\Gabriel\Documents\Proyecto\Zapateria\Zapateria1.3\Zapateria\obj\x86\Debug\Zapateria.ModLoc.resources
+C:\Users\Gabriel\Documents\Proyecto\Zapateria\Zapateria1.3\Zapateria\obj\x86\Debug\Zapateria.ModProv.resources
+C:\Users\Gabriel\Documents\Proyecto\Zapateria\Zapateria1.3\Zapateria\obj\x86\Debug\Zapateria.MostrarLoc.resources
+C:\Users\Gabriel\Documents\Proyecto\Zapateria\Zapateria1.3\Zapateria\obj\x86\Debug\Zapateria.Resources.resources
+C:\Users\Gabriel\Documents\Proyecto\Zapateria\Zapateria1.3\Zapateria\obj\x86\Debug\Zapateria.Principal.resources
+C:\Users\Gabriel\Documents\Proyecto\Zapateria\Zapateria1.3\Zapateria\obj\x86\Debug\Zapateria.Principal_Producto.resources
+C:\Users\Gabriel\Documents\Proyecto\Zapateria\Zapateria1.3\Zapateria\obj\x86\Debug\Zapateria.Prov.resources
+C:\Users\Gabriel\Documents\Proyecto\Zapateria\Zapateria1.3\Zapateria\obj\x86\Debug\Zapateria.Salir.resources
+C:\Users\Gabriel\Documents\Proyecto\Zapateria\Zapateria1.3\Zapateria\obj\x86\Debug\Zapateria.Ventas.resources
+C:\Users\Gabriel\Documents\Proyecto\Zapateria\Zapateria1.3\Zapateria\obj\x86\Debug\Zapateria.vbproj.GenerateResource.Cache
+C:\Users\Gabriel\Documents\Proyecto\Zapateria\Zapateria1.3\Zapateria\obj\x86\Debug\Zapateria.ConsultaFact.resources
+C:\Users\Vanina Ariño\Desktop\ultimas copoas\Zapateria1.3\Zapateria\bin\Debug\Zapateria.exe.config
+C:\Users\Vanina Ariño\Desktop\ultimas copoas\Zapateria1.3\Zapateria\obj\x86\Debug\Zapateria.exe
+C:\Users\Vanina Ariño\Desktop\ultimas copoas\Zapateria1.3\Zapateria\obj\x86\Debug\Zapateria.xml
+C:\Users\Vanina Ariño\Desktop\ultimas copoas\Zapateria1.3\Zapateria\obj\x86\Debug\Zapateria.pdb
+C:\Users\Vanina Ariño\Desktop\ultimas copoas\Zapateria1.3\Zapateria\bin\Debug\Zapateria.sdf
+C:\Users\Vanina Ariño\Desktop\ultimas copoas\Zapateria1.3\Zapateria\bin\Debug\Zapateria.exe
+C:\Users\Vanina Ariño\Desktop\ultimas copoas\Zapateria1.3\Zapateria\bin\Debug\Zapateria.pdb
+C:\Users\Vanina Ariño\Desktop\ultimas copoas\Zapateria1.3\Zapateria\bin\Debug\Zapateria.xml
+C:\Users\Vanina Ariño\Desktop\ultimas copoas\Zapateria1.3\Zapateria\obj\x86\Debug\Zapateria.vbprojResolveAssemblyReference.cache
+C:\Users\Vanina Ariño\Desktop\ultimas copoas\Zapateria1.3\Zapateria\obj\x86\Debug\Zapateria.AltaCli.resources
+C:\Users\Vanina Ariño\Desktop\ultimas copoas\Zapateria1.3\Zapateria\obj\x86\Debug\Zapateria.AltaEmpl.resources
+C:\Users\Vanina Ariño\Desktop\ultimas copoas\Zapateria1.3\Zapateria\obj\x86\Debug\Zapateria.AltaLoc.resources
+C:\Users\Vanina Ariño\Desktop\ultimas copoas\Zapateria1.3\Zapateria\obj\x86\Debug\Zapateria.AltaMarca.resources
+C:\Users\Vanina Ariño\Desktop\ultimas copoas\Zapateria1.3\Zapateria\obj\x86\Debug\Zapateria.AltasProv.resources
+C:\Users\Vanina Ariño\Desktop\ultimas copoas\Zapateria1.3\Zapateria\obj\x86\Debug\Zapateria.Alta_Producto.resources
+C:\Users\Vanina Ariño\Desktop\ultimas copoas\Zapateria1.3\Zapateria\obj\x86\Debug\Zapateria.BuscarCli.resources
+C:\Users\Vanina Ariño\Desktop\ultimas copoas\Zapateria1.3\Zapateria\obj\x86\Debug\Zapateria.BuscarEmp.resources
+C:\Users\Vanina Ariño\Desktop\ultimas copoas\Zapateria1.3\Zapateria\obj\x86\Debug\Zapateria.BuscarProv.resources
+C:\Users\Vanina Ariño\Desktop\ultimas copoas\Zapateria1.3\Zapateria\obj\x86\Debug\Zapateria.Buscar_Productos.resources
+C:\Users\Vanina Ariño\Desktop\ultimas copoas\Zapateria1.3\Zapateria\obj\x86\Debug\Zapateria.Client.resources
+C:\Users\Vanina Ariño\Desktop\ultimas copoas\Zapateria1.3\Zapateria\obj\x86\Debug\Zapateria.ConsultaFact.resources
+C:\Users\Vanina Ariño\Desktop\ultimas copoas\Zapateria1.3\Zapateria\obj\x86\Debug\Zapateria.Empl.resources
+C:\Users\Vanina Ariño\Desktop\ultimas copoas\Zapateria1.3\Zapateria\obj\x86\Debug\Zapateria.ElimLoc.resources
+C:\Users\Vanina Ariño\Desktop\ultimas copoas\Zapateria1.3\Zapateria\obj\x86\Debug\Zapateria.Form1.resources
+C:\Users\Vanina Ariño\Desktop\ultimas copoas\Zapateria1.3\Zapateria\obj\x86\Debug\Zapateria.ModClient.resources
+C:\Users\Vanina Ariño\Desktop\ultimas copoas\Zapateria1.3\Zapateria\obj\x86\Debug\Zapateria.ModEmpl.resources
+C:\Users\Vanina Ariño\Desktop\ultimas copoas\Zapateria1.3\Zapateria\obj\x86\Debug\Zapateria.ModLoc.resources
+C:\Users\Vanina Ariño\Desktop\ultimas copoas\Zapateria1.3\Zapateria\obj\x86\Debug\Zapateria.ModProv.resources
+C:\Users\Vanina Ariño\Desktop\ultimas copoas\Zapateria1.3\Zapateria\obj\x86\Debug\Zapateria.MostrarLoc.resources
+C:\Users\Vanina Ariño\Desktop\ultimas copoas\Zapateria1.3\Zapateria\obj\x86\Debug\Zapateria.Resources.resources
+C:\Users\Vanina Ariño\Desktop\ultimas copoas\Zapateria1.3\Zapateria\obj\x86\Debug\Zapateria.Principal.resources
+C:\Users\Vanina Ariño\Desktop\ultimas copoas\Zapateria1.3\Zapateria\obj\x86\Debug\Zapateria.Principal_Producto.resources
+C:\Users\Vanina Ariño\Desktop\ultimas copoas\Zapateria1.3\Zapateria\obj\x86\Debug\Zapateria.Prov.resources
+C:\Users\Vanina Ariño\Desktop\ultimas copoas\Zapateria1.3\Zapateria\obj\x86\Debug\Zapateria.Salir.resources
+C:\Users\Vanina Ariño\Desktop\ultimas copoas\Zapateria1.3\Zapateria\obj\x86\Debug\Zapateria.Ventas.resources
+C:\Users\Vanina Ariño\Desktop\ultimas copoas\Zapateria1.3\Zapateria\obj\x86\Debug\Zapateria.vbproj.GenerateResource.Cache
+C:\Users\Maikro\Documents\GitHub\Zapateria1.3 Real\Zapateria1.3\Zapateria\bin\Debug\Zapateria.exe.config
+C:\Users\Maikro\Documents\GitHub\Zapateria1.3 Real\Zapateria1.3\Zapateria\obj\x86\Debug\Zapateria.exe
+C:\Users\Maikro\Documents\GitHub\Zapateria1.3 Real\Zapateria1.3\Zapateria\obj\x86\Debug\Zapateria.xml
+C:\Users\Maikro\Documents\GitHub\Zapateria1.3 Real\Zapateria1.3\Zapateria\obj\x86\Debug\Zapateria.pdb
+C:\Users\Maikro\Documents\GitHub\Zapateria1.3 Real\Zapateria1.3\Zapateria\bin\Debug\Zapateria.sdf
+C:\Users\Maikro\Documents\GitHub\Zapateria1.3 Real\Zapateria1.3\Zapateria\bin\Debug\Zapateria.exe
+C:\Users\Maikro\Documents\GitHub\Zapateria1.3 Real\Zapateria1.3\Zapateria\bin\Debug\Zapateria.pdb
+C:\Users\Maikro\Documents\GitHub\Zapateria1.3 Real\Zapateria1.3\Zapateria\bin\Debug\Zapateria.xml
+C:\Users\Maikro\Documents\GitHub\Zapateria1.3 Real\Zapateria1.3\Zapateria\obj\x86\Debug\Zapateria.vbprojResolveAssemblyReference.cache
+C:\Users\Maikro\Documents\GitHub\Zapateria1.3 Real\Zapateria1.3\Zapateria\obj\x86\Debug\Zapateria.AltaCli.resources
+C:\Users\Maikro\Documents\GitHub\Zapateria1.3 Real\Zapateria1.3\Zapateria\obj\x86\Debug\Zapateria.AltaEmpl.resources
+C:\Users\Maikro\Documents\GitHub\Zapateria1.3 Real\Zapateria1.3\Zapateria\obj\x86\Debug\Zapateria.AltaLoc.resources
+C:\Users\Maikro\Documents\GitHub\Zapateria1.3 Real\Zapateria1.3\Zapateria\obj\x86\Debug\Zapateria.AltaMarca.resources
+C:\Users\Maikro\Documents\GitHub\Zapateria1.3 Real\Zapateria1.3\Zapateria\obj\x86\Debug\Zapateria.AltasProv.resources
+C:\Users\Maikro\Documents\GitHub\Zapateria1.3 Real\Zapateria1.3\Zapateria\obj\x86\Debug\Zapateria.Alta_Producto.resources
+C:\Users\Maikro\Documents\GitHub\Zapateria1.3 Real\Zapateria1.3\Zapateria\obj\x86\Debug\Zapateria.BuscarCli.resources
+C:\Users\Maikro\Documents\GitHub\Zapateria1.3 Real\Zapateria1.3\Zapateria\obj\x86\Debug\Zapateria.BuscarEmp.resources
+C:\Users\Maikro\Documents\GitHub\Zapateria1.3 Real\Zapateria1.3\Zapateria\obj\x86\Debug\Zapateria.BuscarProv.resources
+C:\Users\Maikro\Documents\GitHub\Zapateria1.3 Real\Zapateria1.3\Zapateria\obj\x86\Debug\Zapateria.Buscar_Productos.resources
+C:\Users\Maikro\Documents\GitHub\Zapateria1.3 Real\Zapateria1.3\Zapateria\obj\x86\Debug\Zapateria.Client.resources
+C:\Users\Maikro\Documents\GitHub\Zapateria1.3 Real\Zapateria1.3\Zapateria\obj\x86\Debug\Zapateria.ConsultaFact.resources
+C:\Users\Maikro\Documents\GitHub\Zapateria1.3 Real\Zapateria1.3\Zapateria\obj\x86\Debug\Zapateria.Empl.resources
+C:\Users\Maikro\Documents\GitHub\Zapateria1.3 Real\Zapateria1.3\Zapateria\obj\x86\Debug\Zapateria.ElimLoc.resources
+C:\Users\Maikro\Documents\GitHub\Zapateria1.3 Real\Zapateria1.3\Zapateria\obj\x86\Debug\Zapateria.Form1.resources
+C:\Users\Maikro\Documents\GitHub\Zapateria1.3 Real\Zapateria1.3\Zapateria\obj\x86\Debug\Zapateria.ModClient.resources
+C:\Users\Maikro\Documents\GitHub\Zapateria1.3 Real\Zapateria1.3\Zapateria\obj\x86\Debug\Zapateria.ModEmpl.resources
+C:\Users\Maikro\Documents\GitHub\Zapateria1.3 Real\Zapateria1.3\Zapateria\obj\x86\Debug\Zapateria.ModLoc.resources
+C:\Users\Maikro\Documents\GitHub\Zapateria1.3 Real\Zapateria1.3\Zapateria\obj\x86\Debug\Zapateria.ModProv.resources
+C:\Users\Maikro\Documents\GitHub\Zapateria1.3 Real\Zapateria1.3\Zapateria\obj\x86\Debug\Zapateria.MostrarLoc.resources
+C:\Users\Maikro\Documents\GitHub\Zapateria1.3 Real\Zapateria1.3\Zapateria\obj\x86\Debug\Zapateria.Resources.resources
+C:\Users\Maikro\Documents\GitHub\Zapateria1.3 Real\Zapateria1.3\Zapateria\obj\x86\Debug\Zapateria.Principal.resources
+C:\Users\Maikro\Documents\GitHub\Zapateria1.3 Real\Zapateria1.3\Zapateria\obj\x86\Debug\Zapateria.Principal_Producto.resources
+C:\Users\Maikro\Documents\GitHub\Zapateria1.3 Real\Zapateria1.3\Zapateria\obj\x86\Debug\Zapateria.Prov.resources
+C:\Users\Maikro\Documents\GitHub\Zapateria1.3 Real\Zapateria1.3\Zapateria\obj\x86\Debug\Zapateria.Salir.resources
+C:\Users\Maikro\Documents\GitHub\Zapateria1.3 Real\Zapateria1.3\Zapateria\obj\x86\Debug\Zapateria.Ventas.resources
+C:\Users\Maikro\Documents\GitHub\Zapateria1.3 Real\Zapateria1.3\Zapateria\obj\x86\Debug\Zapateria.vbproj.GenerateResource.Cache
+C:\Users\Maikro\Documents\GitHub\Zapateria1.3\Zapateria1.3\Zapateria\bin\Debug\Zapateria.exe.config
+C:\Users\Maikro\Documents\GitHub\Zapateria1.3\Zapateria1.3\Zapateria\obj\x86\Debug\Zapateria.exe
+C:\Users\Maikro\Documents\GitHub\Zapateria1.3\Zapateria1.3\Zapateria\obj\x86\Debug\Zapateria.xml
+C:\Users\Maikro\Documents\GitHub\Zapateria1.3\Zapateria1.3\Zapateria\obj\x86\Debug\Zapateria.pdb
+C:\Users\Maikro\Documents\GitHub\Zapateria1.3\Zapateria1.3\Zapateria\bin\Debug\Zapateria.sdf
+C:\Users\Maikro\Documents\GitHub\Zapateria1.3\Zapateria1.3\Zapateria\bin\Debug\Zapateria.exe
+C:\Users\Maikro\Documents\GitHub\Zapateria1.3\Zapateria1.3\Zapateria\bin\Debug\Zapateria.pdb
+C:\Users\Maikro\Documents\GitHub\Zapateria1.3\Zapateria1.3\Zapateria\bin\Debug\Zapateria.xml
+C:\Users\Maikro\Documents\GitHub\Zapateria1.3\Zapateria1.3\Zapateria\obj\x86\Debug\Zapateria.vbprojResolveAssemblyReference.cache
+C:\Users\Maikro\Documents\GitHub\Zapateria1.3\Zapateria1.3\Zapateria\obj\x86\Debug\Zapateria.AltaCli.resources
+C:\Users\Maikro\Documents\GitHub\Zapateria1.3\Zapateria1.3\Zapateria\obj\x86\Debug\Zapateria.AltaEmpl.resources
+C:\Users\Maikro\Documents\GitHub\Zapateria1.3\Zapateria1.3\Zapateria\obj\x86\Debug\Zapateria.AltaLoc.resources
+C:\Users\Maikro\Documents\GitHub\Zapateria1.3\Zapateria1.3\Zapateria\obj\x86\Debug\Zapateria.AltaMarca.resources
+C:\Users\Maikro\Documents\GitHub\Zapateria1.3\Zapateria1.3\Zapateria\obj\x86\Debug\Zapateria.AltasProv.resources
+C:\Users\Maikro\Documents\GitHub\Zapateria1.3\Zapateria1.3\Zapateria\obj\x86\Debug\Zapateria.Alta_Producto.resources
+C:\Users\Maikro\Documents\GitHub\Zapateria1.3\Zapateria1.3\Zapateria\obj\x86\Debug\Zapateria.BuscarCli.resources
+C:\Users\Maikro\Documents\GitHub\Zapateria1.3\Zapateria1.3\Zapateria\obj\x86\Debug\Zapateria.BuscarEmp.resources
+C:\Users\Maikro\Documents\GitHub\Zapateria1.3\Zapateria1.3\Zapateria\obj\x86\Debug\Zapateria.BuscarProv.resources
+C:\Users\Maikro\Documents\GitHub\Zapateria1.3\Zapateria1.3\Zapateria\obj\x86\Debug\Zapateria.Buscar_Productos.resources
+C:\Users\Maikro\Documents\GitHub\Zapateria1.3\Zapateria1.3\Zapateria\obj\x86\Debug\Zapateria.Client.resources
+C:\Users\Maikro\Documents\GitHub\Zapateria1.3\Zapateria1.3\Zapateria\obj\x86\Debug\Zapateria.ConsultaFact.resources
+C:\Users\Maikro\Documents\GitHub\Zapateria1.3\Zapateria1.3\Zapateria\obj\x86\Debug\Zapateria.Empl.resources
+C:\Users\Maikro\Documents\GitHub\Zapateria1.3\Zapateria1.3\Zapateria\obj\x86\Debug\Zapateria.ElimLoc.resources
+C:\Users\Maikro\Documents\GitHub\Zapateria1.3\Zapateria1.3\Zapateria\obj\x86\Debug\Zapateria.Form1.resources
+C:\Users\Maikro\Documents\GitHub\Zapateria1.3\Zapateria1.3\Zapateria\obj\x86\Debug\Zapateria.ModClient.resources
+C:\Users\Maikro\Documents\GitHub\Zapateria1.3\Zapateria1.3\Zapateria\obj\x86\Debug\Zapateria.ModEmpl.resources
+C:\Users\Maikro\Documents\GitHub\Zapateria1.3\Zapateria1.3\Zapateria\obj\x86\Debug\Zapateria.ModLoc.resources
+C:\Users\Maikro\Documents\GitHub\Zapateria1.3\Zapateria1.3\Zapateria\obj\x86\Debug\Zapateria.ModProv.resources
+C:\Users\Maikro\Documents\GitHub\Zapateria1.3\Zapateria1.3\Zapateria\obj\x86\Debug\Zapateria.MostrarLoc.resources
+C:\Users\Maikro\Documents\GitHub\Zapateria1.3\Zapateria1.3\Zapateria\obj\x86\Debug\Zapateria.Resources.resources
+C:\Users\Maikro\Documents\GitHub\Zapateria1.3\Zapateria1.3\Zapateria\obj\x86\Debug\Zapateria.Principal.resources
+C:\Users\Maikro\Documents\GitHub\Zapateria1.3\Zapateria1.3\Zapateria\obj\x86\Debug\Zapateria.Principal_Producto.resources
+C:\Users\Maikro\Documents\GitHub\Zapateria1.3\Zapateria1.3\Zapateria\obj\x86\Debug\Zapateria.Prov.resources
+C:\Users\Maikro\Documents\GitHub\Zapateria1.3\Zapateria1.3\Zapateria\obj\x86\Debug\Zapateria.Salir.resources
+C:\Users\Maikro\Documents\GitHub\Zapateria1.3\Zapateria1.3\Zapateria\obj\x86\Debug\Zapateria.Ventas.resources
+C:\Users\Maikro\Documents\GitHub\Zapateria1.3\Zapateria1.3\Zapateria\obj\x86\Debug\Zapateria.vbproj.GenerateResource.Cache
+C:\Users\Vanina Ariño\Desktop\Zapateria1.3\Zapateria\bin\Debug\Zapateria.exe.config
+C:\Users\Vanina Ariño\Desktop\Zapateria1.3\Zapateria\obj\x86\Debug\Zapateria.exe
+C:\Users\Vanina Ariño\Desktop\Zapateria1.3\Zapateria\obj\x86\Debug\Zapateria.xml
+C:\Users\Vanina Ariño\Desktop\Zapateria1.3\Zapateria\obj\x86\Debug\Zapateria.pdb
+C:\Users\Vanina Ariño\Desktop\Zapateria1.3\Zapateria\bin\Debug\Zapateria.sdf
+C:\Users\Vanina Ariño\Desktop\Zapateria1.3\Zapateria\bin\Debug\Zapateria.exe
+C:\Users\Vanina Ariño\Desktop\Zapateria1.3\Zapateria\bin\Debug\Zapateria.pdb
+C:\Users\Vanina Ariño\Desktop\Zapateria1.3\Zapateria\bin\Debug\Zapateria.xml
+C:\Users\Vanina Ariño\Desktop\Zapateria1.3\Zapateria\obj\x86\Debug\Zapateria.vbprojResolveAssemblyReference.cache
+C:\Users\Vanina Ariño\Desktop\Zapateria1.3\Zapateria\obj\x86\Debug\Zapateria.AltaCli.resources
+C:\Users\Vanina Ariño\Desktop\Zapateria1.3\Zapateria\obj\x86\Debug\Zapateria.AltaEmpl.resources
+C:\Users\Vanina Ariño\Desktop\Zapateria1.3\Zapateria\obj\x86\Debug\Zapateria.AltaLoc.resources
+C:\Users\Vanina Ariño\Desktop\Zapateria1.3\Zapateria\obj\x86\Debug\Zapateria.AltaMarca.resources
+C:\Users\Vanina Ariño\Desktop\Zapateria1.3\Zapateria\obj\x86\Debug\Zapateria.AltasProv.resources
+C:\Users\Vanina Ariño\Desktop\Zapateria1.3\Zapateria\obj\x86\Debug\Zapateria.Alta_Producto.resources
+C:\Users\Vanina Ariño\Desktop\Zapateria1.3\Zapateria\obj\x86\Debug\Zapateria.BuscarCli.resources
+C:\Users\Vanina Ariño\Desktop\Zapateria1.3\Zapateria\obj\x86\Debug\Zapateria.BuscarEmp.resources
+C:\Users\Vanina Ariño\Desktop\Zapateria1.3\Zapateria\obj\x86\Debug\Zapateria.BuscarProv.resources
+C:\Users\Vanina Ariño\Desktop\Zapateria1.3\Zapateria\obj\x86\Debug\Zapateria.Buscar_Productos.resources
+C:\Users\Vanina Ariño\Desktop\Zapateria1.3\Zapateria\obj\x86\Debug\Zapateria.Client.resources
+C:\Users\Vanina Ariño\Desktop\Zapateria1.3\Zapateria\obj\x86\Debug\Zapateria.ConsultaFact.resources
+C:\Users\Vanina Ariño\Desktop\Zapateria1.3\Zapateria\obj\x86\Debug\Zapateria.Empl.resources
+C:\Users\Vanina Ariño\Desktop\Zapateria1.3\Zapateria\obj\x86\Debug\Zapateria.ElimLoc.resources
+C:\Users\Vanina Ariño\Desktop\Zapateria1.3\Zapateria\obj\x86\Debug\Zapateria.Form1.resources
+C:\Users\Vanina Ariño\Desktop\Zapateria1.3\Zapateria\obj\x86\Debug\Zapateria.ModClient.resources
+C:\Users\Vanina Ariño\Desktop\Zapateria1.3\Zapateria\obj\x86\Debug\Zapateria.ModEmpl.resources
+C:\Users\Vanina Ariño\Desktop\Zapateria1.3\Zapateria\obj\x86\Debug\Zapateria.ModLoc.resources
+C:\Users\Vanina Ariño\Desktop\Zapateria1.3\Zapateria\obj\x86\Debug\Zapateria.ModProv.resources
+C:\Users\Vanina Ariño\Desktop\Zapateria1.3\Zapateria\obj\x86\Debug\Zapateria.MostrarLoc.resources
+C:\Users\Vanina Ariño\Desktop\Zapateria1.3\Zapateria\obj\x86\Debug\Zapateria.Resources.resources
+C:\Users\Vanina Ariño\Desktop\Zapateria1.3\Zapateria\obj\x86\Debug\Zapateria.Principal.resources
+C:\Users\Vanina Ariño\Desktop\Zapateria1.3\Zapateria\obj\x86\Debug\Zapateria.Principal_Producto.resources
+C:\Users\Vanina Ariño\Desktop\Zapateria1.3\Zapateria\obj\x86\Debug\Zapateria.Prov.resources
+C:\Users\Vanina Ariño\Desktop\Zapateria1.3\Zapateria\obj\x86\Debug\Zapateria.Salir.resources
+C:\Users\Vanina Ariño\Desktop\Zapateria1.3\Zapateria\obj\x86\Debug\Zapateria.Ventas.resources
+C:\Users\Vanina Ariño\Desktop\Zapateria1.3\Zapateria\obj\x86\Debug\Zapateria.vbproj.GenerateResource.Cache
+C:\Users\Vanina Ariño\Desktop\Nueva carpeta (3)\Zapateria1.3\Zapateria\bin\Debug\Zapateria.exe.config
+C:\Users\Vanina Ariño\Desktop\Nueva carpeta (3)\Zapateria1.3\Zapateria\obj\x86\Debug\Zapateria.exe
+C:\Users\Vanina Ariño\Desktop\Nueva carpeta (3)\Zapateria1.3\Zapateria\obj\x86\Debug\Zapateria.xml
+C:\Users\Vanina Ariño\Desktop\Nueva carpeta (3)\Zapateria1.3\Zapateria\obj\x86\Debug\Zapateria.pdb
+C:\Users\Vanina Ariño\Desktop\Nueva carpeta (3)\Zapateria1.3\Zapateria\bin\Debug\Zapateria.sdf
+C:\Users\Vanina Ariño\Desktop\Nueva carpeta (3)\Zapateria1.3\Zapateria\bin\Debug\Zapateria.exe
+C:\Users\Vanina Ariño\Desktop\Nueva carpeta (3)\Zapateria1.3\Zapateria\bin\Debug\Zapateria.pdb
+C:\Users\Vanina Ariño\Desktop\Nueva carpeta (3)\Zapateria1.3\Zapateria\bin\Debug\Zapateria.xml
+C:\Users\Vanina Ariño\Desktop\Nueva carpeta (3)\Zapateria1.3\Zapateria\obj\x86\Debug\Zapateria.vbprojResolveAssemblyReference.cache
+C:\Users\Vanina Ariño\Desktop\Nueva carpeta (3)\Zapateria1.3\Zapateria\obj\x86\Debug\Zapateria.AltaCli.resources
+C:\Users\Vanina Ariño\Desktop\Nueva carpeta (3)\Zapateria1.3\Zapateria\obj\x86\Debug\Zapateria.AltaEmpl.resources
+C:\Users\Vanina Ariño\Desktop\Nueva carpeta (3)\Zapateria1.3\Zapateria\obj\x86\Debug\Zapateria.AltaLoc.resources
+C:\Users\Vanina Ariño\Desktop\Nueva carpeta (3)\Zapateria1.3\Zapateria\obj\x86\Debug\Zapateria.AltaMarca.resources
+C:\Users\Vanina Ariño\Desktop\Nueva carpeta (3)\Zapateria1.3\Zapateria\obj\x86\Debug\Zapateria.AltasProv.resources
+C:\Users\Vanina Ariño\Desktop\Nueva carpeta (3)\Zapateria1.3\Zapateria\obj\x86\Debug\Zapateria.Alta_Producto.resources
+C:\Users\Vanina Ariño\Desktop\Nueva carpeta (3)\Zapateria1.3\Zapateria\obj\x86\Debug\Zapateria.BuscarCli.resources
+C:\Users\Vanina Ariño\Desktop\Nueva carpeta (3)\Zapateria1.3\Zapateria\obj\x86\Debug\Zapateria.BuscarEmp.resources
+C:\Users\Vanina Ariño\Desktop\Nueva carpeta (3)\Zapateria1.3\Zapateria\obj\x86\Debug\Zapateria.BuscarProv.resources
+C:\Users\Vanina Ariño\Desktop\Nueva carpeta (3)\Zapateria1.3\Zapateria\obj\x86\Debug\Zapateria.Buscar_Productos.resources
+C:\Users\Vanina Ariño\Desktop\Nueva carpeta (3)\Zapateria1.3\Zapateria\obj\x86\Debug\Zapateria.Client.resources
+C:\Users\Vanina Ariño\Desktop\Nueva carpeta (3)\Zapateria1.3\Zapateria\obj\x86\Debug\Zapateria.ConsultaFact.resources
+C:\Users\Vanina Ariño\Desktop\Nueva carpeta (3)\Zapateria1.3\Zapateria\obj\x86\Debug\Zapateria.Empl.resources
+C:\Users\Vanina Ariño\Desktop\Nueva carpeta (3)\Zapateria1.3\Zapateria\obj\x86\Debug\Zapateria.ElimLoc.resources
+C:\Users\Vanina Ariño\Desktop\Nueva carpeta (3)\Zapateria1.3\Zapateria\obj\x86\Debug\Zapateria.Form1.resources
+C:\Users\Vanina Ariño\Desktop\Nueva carpeta (3)\Zapateria1.3\Zapateria\obj\x86\Debug\Zapateria.ModClient.resources
+C:\Users\Vanina Ariño\Desktop\Nueva carpeta (3)\Zapateria1.3\Zapateria\obj\x86\Debug\Zapateria.ModEmpl.resources
+C:\Users\Vanina Ariño\Desktop\Nueva carpeta (3)\Zapateria1.3\Zapateria\obj\x86\Debug\Zapateria.ModLoc.resources
+C:\Users\Vanina Ariño\Desktop\Nueva carpeta (3)\Zapateria1.3\Zapateria\obj\x86\Debug\Zapateria.ModProv.resources
+C:\Users\Vanina Ariño\Desktop\Nueva carpeta (3)\Zapateria1.3\Zapateria\obj\x86\Debug\Zapateria.MostrarLoc.resources
+C:\Users\Vanina Ariño\Desktop\Nueva carpeta (3)\Zapateria1.3\Zapateria\obj\x86\Debug\Zapateria.Resources.resources
+C:\Users\Vanina Ariño\Desktop\Nueva carpeta (3)\Zapateria1.3\Zapateria\obj\x86\Debug\Zapateria.Principal.resources
+C:\Users\Vanina Ariño\Desktop\Nueva carpeta (3)\Zapateria1.3\Zapateria\obj\x86\Debug\Zapateria.Principal_Producto.resources
+C:\Users\Vanina Ariño\Desktop\Nueva carpeta (3)\Zapateria1.3\Zapateria\obj\x86\Debug\Zapateria.Prov.resources
+C:\Users\Vanina Ariño\Desktop\Nueva carpeta (3)\Zapateria1.3\Zapateria\obj\x86\Debug\Zapateria.Salir.resources
+C:\Users\Vanina Ariño\Desktop\Nueva carpeta (3)\Zapateria1.3\Zapateria\obj\x86\Debug\Zapateria.Ventas.resources
+C:\Users\Vanina Ariño\Desktop\Nueva carpeta (3)\Zapateria1.3\Zapateria\obj\x86\Debug\Zapateria.vbproj.GenerateResource.Cache
+D:\ULTIMA ENTREGA TRABAJO\Zapateria1.3\Zapateria\bin\Debug\Zapateria.exe.config
+D:\ULTIMA ENTREGA TRABAJO\Zapateria1.3\Zapateria\obj\x86\Debug\Zapateria.exe
+D:\ULTIMA ENTREGA TRABAJO\Zapateria1.3\Zapateria\obj\x86\Debug\Zapateria.xml
+D:\ULTIMA ENTREGA TRABAJO\Zapateria1.3\Zapateria\obj\x86\Debug\Zapateria.pdb
+C:\Users\Vanina Ariño\Desktop\2DO\COLEGIO\ULTIMA ENTREGA TRABAJO\Zapateria1.3\Zapateria\bin\Debug\Zapateria.exe.config
+C:\Users\Vanina Ariño\Desktop\2DO\COLEGIO\ULTIMA ENTREGA TRABAJO\Zapateria1.3\Zapateria\obj\x86\Debug\Zapateria.exe
+C:\Users\Vanina Ariño\Desktop\2DO\COLEGIO\ULTIMA ENTREGA TRABAJO\Zapateria1.3\Zapateria\obj\x86\Debug\Zapateria.xml
+C:\Users\Vanina Ariño\Desktop\2DO\COLEGIO\ULTIMA ENTREGA TRABAJO\Zapateria1.3\Zapateria\obj\x86\Debug\Zapateria.pdb
+C:\Users\Vanina Ariño\Desktop\2DO\COLEGIO\ULTIMA ENTREGA TRABAJO\Zapateria1.3\Zapateria\bin\Debug\Zapateria.sdf
+C:\Users\Vanina Ariño\Desktop\2DO\COLEGIO\ULTIMA ENTREGA TRABAJO\Zapateria1.3\Zapateria\bin\Debug\Zapateria.exe
+C:\Users\Vanina Ariño\Desktop\2DO\COLEGIO\ULTIMA ENTREGA TRABAJO\Zapateria1.3\Zapateria\bin\Debug\Zapateria.pdb
+C:\Users\Vanina Ariño\Desktop\2DO\COLEGIO\ULTIMA ENTREGA TRABAJO\Zapateria1.3\Zapateria\bin\Debug\Zapateria.xml
+C:\Users\Vanina Ariño\Desktop\2DO\COLEGIO\ULTIMA ENTREGA TRABAJO\Zapateria1.3\Zapateria\obj\x86\Debug\Zapateria.vbprojResolveAssemblyReference.cache
+C:\Users\Vanina Ariño\Desktop\2DO\COLEGIO\ULTIMA ENTREGA TRABAJO\Zapateria1.3\Zapateria\obj\x86\Debug\Zapateria.AltaCli.resources
+C:\Users\Vanina Ariño\Desktop\2DO\COLEGIO\ULTIMA ENTREGA TRABAJO\Zapateria1.3\Zapateria\obj\x86\Debug\Zapateria.AltaEmpl.resources
+C:\Users\Vanina Ariño\Desktop\2DO\COLEGIO\ULTIMA ENTREGA TRABAJO\Zapateria1.3\Zapateria\obj\x86\Debug\Zapateria.AltaLoc.resources
+C:\Users\Vanina Ariño\Desktop\2DO\COLEGIO\ULTIMA ENTREGA TRABAJO\Zapateria1.3\Zapateria\obj\x86\Debug\Zapateria.AltaMarca.resources
+C:\Users\Vanina Ariño\Desktop\2DO\COLEGIO\ULTIMA ENTREGA TRABAJO\Zapateria1.3\Zapateria\obj\x86\Debug\Zapateria.AltasProv.resources
+C:\Users\Vanina Ariño\Desktop\2DO\COLEGIO\ULTIMA ENTREGA TRABAJO\Zapateria1.3\Zapateria\obj\x86\Debug\Zapateria.Alta_Producto.resources
+C:\Users\Vanina Ariño\Desktop\2DO\COLEGIO\ULTIMA ENTREGA TRABAJO\Zapateria1.3\Zapateria\obj\x86\Debug\Zapateria.BuscarCli.resources
+C:\Users\Vanina Ariño\Desktop\2DO\COLEGIO\ULTIMA ENTREGA TRABAJO\Zapateria1.3\Zapateria\obj\x86\Debug\Zapateria.BuscarEmp.resources
+C:\Users\Vanina Ariño\Desktop\2DO\COLEGIO\ULTIMA ENTREGA TRABAJO\Zapateria1.3\Zapateria\obj\x86\Debug\Zapateria.BuscarProv.resources
+C:\Users\Vanina Ariño\Desktop\2DO\COLEGIO\ULTIMA ENTREGA TRABAJO\Zapateria1.3\Zapateria\obj\x86\Debug\Zapateria.Buscar_Productos.resources
+C:\Users\Vanina Ariño\Desktop\2DO\COLEGIO\ULTIMA ENTREGA TRABAJO\Zapateria1.3\Zapateria\obj\x86\Debug\Zapateria.Client.resources
+C:\Users\Vanina Ariño\Desktop\2DO\COLEGIO\ULTIMA ENTREGA TRABAJO\Zapateria1.3\Zapateria\obj\x86\Debug\Zapateria.ConsultaFact.resources
+C:\Users\Vanina Ariño\Desktop\2DO\COLEGIO\ULTIMA ENTREGA TRABAJO\Zapateria1.3\Zapateria\obj\x86\Debug\Zapateria.Empl.resources
+C:\Users\Vanina Ariño\Desktop\2DO\COLEGIO\ULTIMA ENTREGA TRABAJO\Zapateria1.3\Zapateria\obj\x86\Debug\Zapateria.ElimLoc.resources
+C:\Users\Vanina Ariño\Desktop\2DO\COLEGIO\ULTIMA ENTREGA TRABAJO\Zapateria1.3\Zapateria\obj\x86\Debug\Zapateria.Form1.resources
+C:\Users\Vanina Ariño\Desktop\2DO\COLEGIO\ULTIMA ENTREGA TRABAJO\Zapateria1.3\Zapateria\obj\x86\Debug\Zapateria.ModClient.resources
+C:\Users\Vanina Ariño\Desktop\2DO\COLEGIO\ULTIMA ENTREGA TRABAJO\Zapateria1.3\Zapateria\obj\x86\Debug\Zapateria.ModEmpl.resources
+C:\Users\Vanina Ariño\Desktop\2DO\COLEGIO\ULTIMA ENTREGA TRABAJO\Zapateria1.3\Zapateria\obj\x86\Debug\Zapateria.ModLoc.resources
+C:\Users\Vanina Ariño\Desktop\2DO\COLEGIO\ULTIMA ENTREGA TRABAJO\Zapateria1.3\Zapateria\obj\x86\Debug\Zapateria.ModProv.resources
+C:\Users\Vanina Ariño\Desktop\2DO\COLEGIO\ULTIMA ENTREGA TRABAJO\Zapateria1.3\Zapateria\obj\x86\Debug\Zapateria.MostrarLoc.resources
+C:\Users\Vanina Ariño\Desktop\2DO\COLEGIO\ULTIMA ENTREGA TRABAJO\Zapateria1.3\Zapateria\obj\x86\Debug\Zapateria.Resources.resources
+C:\Users\Vanina Ariño\Desktop\2DO\COLEGIO\ULTIMA ENTREGA TRABAJO\Zapateria1.3\Zapateria\obj\x86\Debug\Zapateria.Principal.resources
+C:\Users\Vanina Ariño\Desktop\2DO\COLEGIO\ULTIMA ENTREGA TRABAJO\Zapateria1.3\Zapateria\obj\x86\Debug\Zapateria.Principal_Producto.resources
+C:\Users\Vanina Ariño\Desktop\2DO\COLEGIO\ULTIMA ENTREGA TRABAJO\Zapateria1.3\Zapateria\obj\x86\Debug\Zapateria.Prov.resources
+C:\Users\Vanina Ariño\Desktop\2DO\COLEGIO\ULTIMA ENTREGA TRABAJO\Zapateria1.3\Zapateria\obj\x86\Debug\Zapateria.Salir.resources
+C:\Users\Vanina Ariño\Desktop\2DO\COLEGIO\ULTIMA ENTREGA TRABAJO\Zapateria1.3\Zapateria\obj\x86\Debug\Zapateria.Ventas.resources
+C:\Users\Vanina Ariño\Desktop\2DO\COLEGIO\ULTIMA ENTREGA TRABAJO\Zapateria1.3\Zapateria\obj\x86\Debug\Zapateria.vbproj.GenerateResource.Cache
